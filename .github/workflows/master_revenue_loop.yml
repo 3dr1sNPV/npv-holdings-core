@@ -1,0 +1,40 @@
+name: NPV Holdings 12-Subsidiary Autonomous Revenue Loop
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  run-conglomerate-loop:
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      SHOPIFY_CLIENT_ID: ${{ secrets.SHOPIFY_CLIENT_ID }}
+      SHOPIFY_CLIENT_SECRET: ${{ secrets.SHOPIFY_CLIENT_SECRET }}
+
+    steps:
+      - name: Checkout Repository Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install System Dependencies
+        run: pip install requests
+
+      - name: Execute Master Orchestrator
+        run: python3 npv_master_orchestrator.py
+
+      - name: Commit Global Ledger Changes Back to Repository
+        run: |
+          git config --global user.name "NPV-Master-Orchestrator"
+          git config --global user.email "orchestrator@npv-holdings.local"
+          git status
+          git add ledger/global_revenue_state.json
+          git diff --cached --quiet || git commit -m "Auto-Pulse: 12-subsidiary revenue state synchronized [skip ci]"
+          git push || echo "No changes detected to push."
