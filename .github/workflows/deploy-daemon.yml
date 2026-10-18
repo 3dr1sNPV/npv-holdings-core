@@ -29,57 +29,53 @@ jobs:
 
       - name: Execute Autonomous Market & Catalog Engine
         run: |
-          echo "[*] Booting NPV Holdings Autonomous Core..."
-          python3 -c '
-            import os, json, requests
-            from datetime import datetime
+          python3 -c "
+          import os, json, requests
+          from datetime import datetime
 
-            shop = os.environ.get("SHOPIFY_SHOP")
-            client_id = os.environ.get("SHOPIFY_CLIENT_ID")
-            client_secret = os.environ.get("SHOPIFY_CLIENT_SECRET")
+          shop = os.environ.get('SHOPIFY_SHOP')
+          client_id = os.environ.get('SHOPIFY_CLIENT_ID')
+          client_secret = os.environ.get('SHOPIFY_CLIENT_SECRET')
 
-            print(f"[{datetime.utcnow().isoformat()}] Requesting automated session access token for {shop}...")
+          print(f'[{datetime.utcnow().isoformat()}] Requesting automated session access token for {shop}...')
 
-            # Exchange Dev Dashboard credentials for an API access token
-            token_url = f"https://{shop}/admin/oauth/access_token"
-            payload = {
-                "client_id": client_id,
-                "client_secret": client_secret,
-                "grant_type": "client_credentials"
-            }
-            
-            token_res = requests.post(token_url, json=payload)
-            if token_res.status_code == 200:
-                access_token = token_res.json().get("access_token")
-                print("[+] Successfully acquired live Dev Dashboard session token.")
-                
-                # Verify connection via Shopify Admin GraphQL/REST API
-                api_url = f"https://{shop}/admin/api/2024-07/shop.json"
-                headers = {
-                    "X-Shopify-Access-Token": access_token,
-                    "Content-Type": "application/json"
-                }
-                
-                shop_res = requests.get(api_url, headers=headers)
-                if shop_res.status_code == 200:
-                    shop_data = shop_res.json().get("shop", {})
-                    print(f"[+] Connected Store: {shop_data.get(\"name\")} ({shop_data.get(\"domain\")})")
-                    
-                    # Store catalog synchronization output
-                    os.makedirs("npv-core/modules/pod-pipeline", exist_ok=True)
-                    catalog = [
-                      {"sku": "NPV-AUT-01", "item": "AI-Curated Global Trend Asset", "margin": "65%", "status": "Synced"},
-                      {"sku": "ETSY-NPV-DIG-001", "item": "Minimalist Productivity & Notion OS Engine", "margin": "100%", "status": "Active"}
-                    ]
-                    with open("npv-core/modules/pod-pipeline/live_master_catalog.json", "w") as f:
-                        json.dump(catalog, f, indent=4)
-                else:
-                    print(f"[-] API validation failed: {shop_res.status_code} - {shop_res.text}")
-                    exit(1)
-            else:
-                print(f"[-] Token exchange failed: {token_res.status_code} - {token_res.text}")
-                exit(1)
-          '
+          token_url = f'https://{shop}/admin/oauth/access_token'
+          payload = {
+              'client_id': client_id,
+              'client_secret': client_secret,
+              'grant_type': 'client_credentials'
+          }
+          
+          token_res = requests.post(token_url, json=payload)
+          if token_res.status_code == 200:
+              access_token = token_res.json().get('access_token')
+              print('[+] Successfully acquired live Dev Dashboard session token.')
+              
+              api_url = f'https://{shop}/admin/api/2024-07/shop.json'
+              headers = {
+                  'X-Shopify-Access-Token': access_token,
+                  'Content-Type': 'application/json'
+              }
+              
+              shop_res = requests.get(api_url, headers=headers)
+              if shop_res.status_code == 200:
+                  shop_data = shop_res.json().get('shop', {})
+                  print(f'[+] Connected Store: {shop_data.get(\"name\")} ({shop_data.get(\"domain\")})')
+                  
+                  os.makedirs('npv-core/modules/pod-pipeline', exist_ok=True)
+                  catalog = [
+                    {'sku': 'NPV-AUT-01', 'item': 'AI-Curated Global Trend Asset', 'margin': '65%', 'status': 'Synced'},
+                    {'sku': 'ETSY-NPV-DIG-001', 'item': 'Minimalist Productivity & Notion OS Engine', 'margin': '100%', 'status': 'Active'}
+                  ]
+                  with open('npv-core/modules/pod-pipeline/live_master_catalog.json', 'w') as f:
+                      json.dump(catalog, f, indent=4)
+              else:
+                  print(f'[-] API validation failed: {shop_res.status_code} - {shop_res.text}')
+                  exit(1)
+          else:
+              print(f'[-] Token exchange failed: {token_res.status_code} - {token_res.text}')
+              exit(1)
+          "
 
       - name: Commit State Changes Back to Repository
         run: |
