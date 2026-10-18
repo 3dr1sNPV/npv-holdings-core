@@ -8,6 +8,8 @@ on:
 jobs:
   run-agent:
     runs-on: ubuntu-24.04
+    permissions:
+      contents: write   # Gives the action explicit permission to commit and push changes back to the repo
     env:
       SHOPIFY_SHOP: daddyskiosk.myshopify.com
       SHOPIFY_CLIENT_ID: ${{ secrets.SHOPIFY_CLIENT_ID }}
@@ -83,6 +85,6 @@ jobs:
         run: |
           git config --global user.name "NPV-Autonomous-Agent"
           git config --global user.email "agent@npv-holdings.local"
-          git add .
-          git commit -m "Auto-pulse: Cloud execution state updated [skip ci]" || exit 0
+          git add npv-core/modules/pod-pipeline/live_master_catalog.json
+          git diff --staged --quiet || git commit -m "Auto-pulse: Cloud execution state updated [skip ci]"
           git push
