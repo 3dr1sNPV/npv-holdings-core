@@ -6,7 +6,7 @@ NPV Holdings is a sovereign, automated enterprise governed via GitHub-driven Dev
 ### Sovereign Strategy: The Trojan Horse & Cash Flow Flywheel
 1. **Asset-Light Software (Project Avi & Daddyskiosk):** Generate recurring, scalable cash flow through zero-friction software models, e-commerce automation, and airside telemetry subscriptions.
 2. **Holding Subsidy:** Software profits fund heavy physical engineering, meticulous material craft, and custom hardware ventures (House EDRIS, Project Loki, EDRIS Acoustics) without external VC dilution.
-3. **Zero-Maintenance Infrastructure:** GitHub Actions (Ubuntu 24.04 runners) serve as the sovereign execution layer. State persistence is maintained via Git-backed JSON manifests (`live_master_catalog.json`).
+3. **Zero-Maintenance Infrastructure:** GitHub Actions (Ubuntu 24.04 runners) serve as the sovereign execution layer. State persistence is maintained via Git-backed JSON manifests (`global_revenue_state.json`).
 
 ---
 
@@ -14,7 +14,7 @@ NPV Holdings is a sovereign, automated enterprise governed via GitHub-driven Dev
 
 | Subsidiary | Operational Focus | Technology / Core Artifacts |
 | :--- | :--- | :--- |
-| **01. Daddyskiosk Global** | E-Commerce & POD Operations | Shopify API, Etsy Open API v3, `live_master_catalog.json` |
+| **01. Daddyskiosk Global** | E-Commerce & POD Operations | Shopify API, Etsy Open API v3, `live_revenue_catalog.json` |
 | **02. House EDRIS** | Luxury Fashion & Dark Architecture | Aerodris UI/UX Framework, Design Tokens, Bespoke Tailoring |
 | **03. Project Avi** | Aviation Baggage Telemetry | UWB/BLE/NB-IoT Tags, SITA/IATA Protocol Translator |
 | **04. Project Loki** | Industrial Engineering & Restomods | 300 HP 45 MPG Safari-Drift Restomod, Powertrain Specs |
@@ -26,12 +26,3 @@ NPV Holdings is a sovereign, automated enterprise governed via GitHub-driven Dev
 | **10. EDRIS Bespoke Fragrance** | High-End Perfumery | Scent Profile Chemistry & Formulation Specifications |
 | **11. NPV Fintech Systems** | Treasury & Neo-Bank Routing | Multi-Currency Treasury Engines & Ledger Sync |
 | **12. NPV Security Ventures** | Hardware Encryption & Access | Secure Elements, Cryptographic Modules & Access Protocols |
-
----
-
-## 3. Strict AI Rules & Guidelines for Agents Working on This Repo
-When generating code, editing manifests, or making strategic suggestions:
-1. **Zero Hardcoded Secrets:** Always source API tokens (`SHOPIFY_CLIENT_SECRET`, `ETSY_API_KEY`, `OPENAI_API_KEY`) from environment variables (`os.environ`).
-2. **Indentation Precision:** Ensure Python execution blocks embedded inside YAML steps are formatted with exact spaces to prevent `IndentationError`.
-3. **State Persistence:** Always output execution state updates to their respective JSON manifests and trigger `git diff --cached --quiet || git commit`.
-4. **Design Ideology:** Adhere strictly to the **House EDRIS / Aerodris** aesthetic: dark obsidian tones, minimalist monospace serifs, cinematic glamour, and clean architectural lines.
