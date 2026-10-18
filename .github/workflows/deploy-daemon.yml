@@ -22,6 +22,9 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install Dependencies
+        run: pip install requests
+
       - name: Execute Autonomous Market & Catalog Engine
         run: |
           echo "[*] Booting NPV Holdings Autonomous Core..."
