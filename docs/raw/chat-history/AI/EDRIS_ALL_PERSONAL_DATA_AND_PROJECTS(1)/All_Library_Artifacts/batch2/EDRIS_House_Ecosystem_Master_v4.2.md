@@ -1,0 +1,466 @@
+# EDRIS — HOUSE ECOSYSTEM MASTER v4.2
+## A HOUSE OF FASHION — IRAN
+### BUILD AGAINST TIME.
+
+**Status:** Canonical design + product + experience ecosystem master  
+**House:** EDRIS  
+**Founder / Creative Director:** Edris Nazparvar  
+**Public house:** EDRIS  
+**Internal bespoke / atelier engine:** TUX GEN  
+**House crest:** THE MASKED RABBIT
+
+---
+
+## 1. THE COMPLETED HOUSE
+
+EDRIS is not a pile of products. It is one connected house covering the client's life:
+
+**CEREMONY → TAILORING → EVERYDAY → WEATHER → TRAVEL → OBJECTS → JEWELRY → TIME → FRAGRANCE → HOME → ARCHIVE**
+
+The house is complete when every major need has a credible EDRIS answer without artificial SKU expansion.
+
+Every product must:
+1. Solve a real need.
+2. Express EDRIS identity.
+3. Connect naturally to other EDRIS products.
+4. Remain desirable without the logo.
+
+**Timeless first. Current second.** Trends may change expression, never identity.
+
+---
+
+## 2. PERMANENT HOUSE DNA
+
+### Six pillars
+- Ancient Soul — Iran
+- Dark Architecture
+- Cinematic Glamour
+- The Feral Human
+- The Machine
+- Mortality
+
+### Permanent contrasts
+black × white; polished × oxidized; soft wool × hard metal; animal × mask; ancient × futuristic; Iran × Hollywood; beauty × unease; life × death; hand × machine; nature × civilization.
+
+### Design test
+1. Beautiful at first glance.
+2. Slightly strange at second glance.
+3. Meaningful at third glance.
+4. Recognizable without the logo.
+5. Iranian in soul, never costume.
+6. Useful or emotionally necessary.
+7. Durable enough to become an artifact.
+
+### Forbidden
+Generic Persian luxury, Persian costume, costume Gothic, medieval fantasy, literal steampunk, cyberpunk cosplay, military cosplay, generic streetwear, logo-covered luxury, fake aristocracy, generic quiet luxury, trend-chasing, movie/game merchandise, excessive skulls/gears/claws, cheap dark aesthetic, superficial AI gimmicks, surveillance-heavy personalization.
+
+---
+
+## 3. PRODUCT HIERARCHY
+
+**O1 ONE OF ONE** — unique and permanently archived.  
+**B BESPOKE** — individualized through TUX GEN.  
+**MTM MADE TO MEASURE** — personalized EDRIS blocks.  
+**RTW READY TO WEAR** — scalable house blocks.  
+**LE LIMITED EDITION** — fixed quantity and numbered.  
+**CORE** — permanent house products.
+
+Production gate:
+**DESIGN → ENGINEERING → CRAFT → HOUSE → RELEASE**
+
+---
+
+# 4. MASTER PRODUCT UNIVERSE
+
+## FORMAL / TAILORING
+
+### 001 — ONE OF ONE TUXEDO — O1
+**LOCKED.** Midnight / forest-black luxury wool; single-breasted one-button Hollywood body; sculpted Hollywood shoulder; high armhole; full canvas; horsehair chest; structured shoulder/sleeve head; double-jetted pockets; double vents; **12 cm straight peak lapel**; deep black satin facing. White fine formal cotton shirt, formal collar, French cuffs, concealed/clean front, aged-silver studs. Large architectural black butterfly bow. High-rise flat-front trousers, side adjusters, no belt loops, black satin side stripe. White boutonniere/pocket square. Aged-silver buttons/cufflinks/studs. Hidden Iranian geometry.
+
+### THE COLUMN — CORE / MTM
+Main EDRIS suit: two-button, long controlled body, high armhole, extended controlled shoulder, **9.5–10 cm straight peak**, controlled waist, high-rise trousers, strong crease, double vents. Forest-black, charcoal-black, midnight.
+
+### THE PATRON — MTM
+Authority suit: fuller chest, softer sculpted shoulder, 9–9.5 cm straight peak, longer jacket, high-rise fuller trouser. Forest-black, deep bottle green, very dark brown-black.
+
+### THE NOCTURNE — LE
+Black velvet evening tuxedo; one button, long body, strong shoulder, black silk facing, white shirt, large black bow. Main lapel remains architectural.
+
+### THE SALON — LE
+Deep bottle-green or black-burgundy velvet evening jacket; one button; long body; black satin facing; aged-silver button; white shirt; black trousers. No embroidery.
+
+### THE AFTERHOURS — CORE
+Black-brown wool bridge between formal and everyday; two-button; 8.5–9 cm straight peak; slightly shorter body; high-rise trousers; white shirt or fine black knit.
+
+### THE COLUMN TROUSER — CORE
+High rise, flat front, long leg, controlled thigh, strong crease, slight taper, side adjusters, no belt loops.
+
+**THE VELVET HOUR is deleted as a standalone SKU; its strongest ideas live in NOCTURNE and SALON.**
+
+---
+
+## SHIRTS / KNITWEAR / CASUAL
+
+**THE FOUNDATION TEE — CORE:** heavy compact cotton, strong shoulder, clean crew, slightly elongated straight body; black/ivory/forest/washed charcoal; no external logo.
+
+**THE STRUCTURE SHIRT — CORE / SIGNATURE:** concealed placket, architectural collar, controlled body, long cuff, rear pleat, internal aged-silver buttons, stepped collar stand; black/ivory.
+
+**THE MONSOON SHIRT — LE / WEATHER:** dense weather cloth, high collar, concealed zip, framed pockets, hidden travel pocket, dark hardware; functional, never military.
+
+**THE HEIRLOOM KNIT — CORE:** heavy cashmere/wool, relaxed shoulder, long body, architectural cuff; black/ivory/forest; rabbit hidden inside garment.
+
+**THE CLUB POLO — CORE:** mercerized cotton/silk, severe collar, controlled fit, three concealed buttons; no obvious branding.
+
+**THE VEIL SCARF — CORE:** narrow black silk-wool, one architectural aged-silver terminal, hidden geometry.
+
+**THE DISTRICT DENIM — CORE:** near-black heavy denim, high rise, straight/slightly tapered; no fake distressing, rips or contrast stitching.
+
+---
+
+## OUTERWEAR
+
+**THE RUIN — CORE:** below-knee black wool, controlled shoulder, straight front, high collar, deep internal pockets, hidden back-vent geometry.
+
+**THE PORTAL — CORE:** long architectural trench, high collar, clean storm construction, controlled belt, framed pockets, gunmetal/blackened hardware; no epaulettes.
+
+**THE WILD — LE:** premium black horsehide or equivalent; slightly cropped, sculpted shoulder, close waist, minimal pockets; no biker clichés or excessive studs.
+
+**THE OBSIDIAN — CORE:** tailored bomber in technical wool, clean rib/tailored hem, concealed zip, aged-silver pull; no graphics.
+
+**THE FRONTIER — LE:** long civilized field coat in forest-black/mineral brown; severe collar, hidden utility, removable liner; survival without military cosplay.
+
+**THE RAIN — CORE:** matte-black waterproof long silhouette, hidden hood, concealed/magnetic closure; modern technical EDRIS.
+
+---
+
+## FOOTWEAR
+
+**THE MONUMENT — CORE:** formal wholecut; natural partner to 001 and COLUMN.  
+**THE SPIRE — CORE:** Chelsea-derived architectural boot.  
+**THE RELIC — LE:** genuinely rugged EDRIS boot; substantial leather, architectural lug sole, heavy welt, blackened hardware.  
+**THE VECTOR — CORE:** minimal black sneaker, no logo wall or artificial futurism.  
+**THE DECO — CORE:** architectural loafer with restrained metal bar.  
+**THE OUTPOST — FUTURE / LE:** held back because of overlap with RELIC; release only if it earns a distinct role.
+
+---
+
+## LEATHER GOODS
+
+**THE DOSSIER — CORE:** rigid black architectural briefcase with mechanical aged-silver lock.  
+**THE MIDNIGHT — LE:** compact rectangular evening bag with one substantial silver closure.  
+**THE VOYAGE — CORE:** travel case with suit/shoe/watch/jewelry/fragrance/document organization.  
+**THE TWENTY-FOUR — CORE:** daily bag between briefcase and weekend bag; signature silhouette.  
+**THE VAULT — CORE:** personal-object case for watch, jewelry, fragrance, passport and keys.  
+**THE FOLD — CORE:** ultra-thin bifold.  
+**THE CARD — CORE:** minimal cardholder.  
+**THE PASSPORT — CORE:** passport holder.  
+**THE CINCTURE — CORE:** house belt; portal-geometry buckle, never rabbit-shaped.  
+**THE HAND — LE:** clean formal glove.  
+**THE WARDROBE — CORE:** garment bag and part of the travel system.
+
+---
+
+## EYEWEAR
+
+**THE NOIR — CORE:** thick black acetate angular rectangular signature frame.  
+**THE DECO — LE:** thin gunmetal architectural frame.  
+**THE MASK — LE:** abstract rabbit influence only; no literal rabbit face.  
+**THE ORACLE — FUTURE:** smart eyewear platform; remove the electronics and it must still be unmistakably EDRIS.
+
+---
+
+## JEWELRY / HOUSE HARDWARE
+
+Primary metal: aged/blackened sterling silver. Secondary: brushed gunmetal and polished silver.
+
+House geometry: **narrow vertical incision crossing a framed/stepped architectural form.**
+
+**THE RABBIT — ICON:** substantial sterling silver, blackened recesses, polished high points.  
+**THE PORTAL — CORE:** everyday architectural ring.  
+**THE LINK — LE:** heavy articulated silver chain with vertical incision in links.  
+**THE RELIC — LE:** vertical pendant using simplified rabbit geometry.  
+**THE BASTION — LE:** wide architectural cuff.  
+**THE SEAL — CORE:** quiet architectural brooch for tailoring.  
+**THE NEEDLE — CORE:** thin tie pin.  
+**THE AXIS — CORE:** collar-bar system.  
+**THE CREST — CORE:** quiet signet; rabbit inside rather than displayed literally.  
+**HOUSE CUFFLINKS — CORE:** designed for 001.  
+**HOUSE STUDS — CORE:** designed for 001.  
+**THE RELIC BRACELET — LE:** three articulated architectural plates with hidden rabbit on central plate.
+
+**Rule: one excellent hardware piece beats five decorative pieces.**
+
+---
+
+## HOROLOGY
+
+**THE OPERATIVE — FLAGSHIP:** 40–41 mm automatic; black dial, instrument bezel, strong water resistance, screw-down crown, slim enough for formal wear; original architecture; instrument honesty + refined finishing + versatile evening/day use without copying existing watches.
+
+**THE HOUSE — LE:** 39–40 mm formal watch; thin, black/ivory dial, precious-metal option, fine movement.
+
+**THE FIELD — FUTURE:** 40–41 mm rugged field companion; distinct from OPERATIVE and not military cosplay.
+
+---
+
+## FRAGRANCE
+
+**001 AFTER THE RAIN — FLAGSHIP:** midnight tuxedo + tropical/dark rainforest after heavy rain + derelict shipyard + black ocean + wet concrete + rusting machinery + vegetation reclaiming civilization + campfire + smoke + cognac + cacao + honey + old wood. Signature accord: **cardamom × vetiver × mineral rain**. Tall heavy architectural black/dark translucent glass with aged-silver Masked Rabbit cap.
+
+**THE ARCHIVE:** dry woods, paper, iris, incense, leather, mineral, tobacco nuance; old-room atmosphere.
+
+**THE NOCTURNE:** black pepper, cardamom, dark rose, amber, sandalwood, cacao, vanilla, leather.
+
+**RAIN ON STONE — FUTURE:** only released if clearly colder and more austere than AFTER THE RAIN; otherwise deleted.
+
+---
+
+## ACCESSORIES
+
+**THE 12 CM BOW — ICON:** oversized architectural butterfly bow, black silk.  
+**THE TIE — CORE:** wide controlled silk, black/forest/midnight.  
+**THE POCKET SQUARE — CORE:** white silk with black border; optional hidden rabbit.  
+**THE SUSPENDER — CORE:** black silk/wool, leather tabs, aged-silver adjusters.  
+**THE LAPEL PIN — CORE:** narrow architectural silver mark, not rabbit.  
+**THE AXIS — CORE:** collar-bar system; separate COLLAR BAR SKU eliminated.  
+**THE TRAVEL OBJECT SET — LE:** passport holder + cardholder + watch pouch + jewelry pouch + fragrance atomizer + garment tags.
+
+---
+
+## GROOMING — FUTURE RITUAL
+
+Hand/body cleanser; hair pomade; beard oil; aftershave balm; solid fragrance; incense.
+
+Grooming does not launch before the fragrance world is established.
+
+---
+
+## HOME / OBJECTS
+
+**THE OBSERVATORY:** architectural lamp.  
+**THE ALTAR:** object tray.  
+**THE RELIQUARY:** archive/storage box.  
+**THE WET STONE:** candle.  
+**THE BAR — FUTURE:** restrained hospitality object.  
+**THE DESK — FUTURE:** writing/work object.
+
+Home remains small, useful and collectible; never a lifestyle-store filler category.
+
+---
+
+# 5. PRODUCT FAMILY / SUGGESTION SYSTEM
+
+## 001 — THE CEREMONY SYSTEM
+001 TUXEDO → STRUCTURE SHIRT → 12 CM BOW → HOUSE STUDS → HOUSE CUFFLINKS → MONUMENT → OPERATIVE → AFTER THE RAIN → VAULT.
+
+## THE COLUMN — THE HOUSE SUIT
+COLUMN → STRUCTURE SHIRT → NEEDLE → SEAL → MONUMENT → DOSSIER → OPERATIVE.
+Alternative: COLUMN → HEIRLOOM KNIT → SPIRE → TWENTY-FOUR.
+
+## THE PATRON — AUTHORITY
+PATRON → STRUCTURE SHIRT → CREST → DECO → DOSSIER → HOUSE → ARCHIVE.
+
+## THE NOCTURNE — NIGHT
+NOCTURNE → STRUCTURE SHIRT → 12 CM BOW → SEAL → DECO → MIDNIGHT → NOCTURNE FRAGRANCE.
+
+## THE RUIN — WINTER
+RUIN → HEIRLOOM KNIT → COLUMN TROUSER → SPIRE → VAULT → OPERATIVE → AFTER THE RAIN.
+
+## THE RAIN — WEATHER
+RAIN → MONSOON → DISTRICT DENIM → RELIC → VOYAGE → AFTER THE RAIN.
+
+## THE WILD — FERAL
+WILD → FOUNDATION TEE → DISTRICT DENIM → RELIC → LINK → OPERATIVE → AFTER THE RAIN.
+
+## THE FRONTIER — TRAVEL
+FRONTIER → MONSOON → DISTRICT DENIM → RAIN → RELIC → VOYAGE → FIELD.
+
+## THE ARTIFACT SYSTEM
+RABBIT → SEAL → VAULT → RELIQUARY → ARCHIVE → OPERATIVE.
+
+## THE WEATHER SYSTEM
+MONSOON → RAIN → AFTER THE RAIN → RAIN ON STONE.
+
+---
+
+# 6. PRODUCT-PAGE RECOMMENDATION ENGINE
+
+Every EDRIS product page uses four relationship layers:
+
+**WEAR WITH** — garments that complete the look.  
+**COMPLETE THE OBJECT** — accessories, jewelry, footwear or supporting objects.  
+**THE EDRIS WORLD** — products sharing the same conceptual family.  
+**NEXT OBJECT** — one natural next purchase, never arbitrary cross-selling.
+
+Example — STRUCTURE SHIRT:
+- Wear with: COLUMN · PATRON · DISTRICT DENIM
+- Complete with: SEAL · AXIS · MONUMENT
+- Travel with: DOSSIER
+- Scent with: AFTER THE RAIN
+
+This logic powers website, app, commerce and clienteling.
+
+---
+
+# 7. CLIENT JOURNEY
+
+**DISCOVER → DESIRE → ENTER → BUILD → BESPOKE → ACQUIRE → WEAR → TRAVEL → CARE → REPAIR → ARCHIVE → RETURN**
+
+A client may enter through tailoring, a shirt, fragrance, jewelry, eyewear, leather or watch. The ecosystem then naturally introduces adjacent worlds.
+
+No forced cross-selling.
+
+---
+
+# 8. TUX GEN — INTERNAL BESPOKE ENGINE
+
+TUX GEN connects consultation, body measurements, pattern blocks, material selection, hardware selection, fitting, alterations, construction records, golden samples, care, repair, provenance, client archive and future re-orders.
+
+TUX GEN is not a public sub-brand. The customer experiences **EDRIS**.
+
+---
+
+# 9. PROVENANCE / DIGITAL PASSPORT / ARCHIVE
+
+For significant objects:
+
+**OBJECT ID → PRODUCT FAMILY → MATERIALS → HARDWARE → CRAFT RECORD → EDITION → CLIENT RECORD WHERE LEGALLY APPROPRIATE → CARE → REPAIR → ALTERATION → AUTHENTICITY → ARCHIVE**
+
+Physical craft remains primary. Digital technology supports provenance; it does not become the product.
+
+---
+
+# 10. PACKAGING SYSTEM
+
+Universal architecture:
+
+**OUTER SHELL → REVEAL → OBJECT CHAMBER → PROVENANCE → CARE → DIGITAL PASSPORT**
+
+Near-black board, black textile, selective aged silver, blind/debossed crest, hidden Iranian geometry, magnetic/mechanical closures. No glossy logo-heavy packaging.
+
+---
+
+# 11. ATELIER / RETAIL EXPERIENCE
+
+Black stone; dark wood; blackened metal; selective greenery; warm controlled light; Iranian symmetry interpreted through Art Deco; monumental scale without theme-park décor.
+
+Client journey:
+**arrival → consultation → material discovery → design → fitting → reveal → packaging → aftercare → archive**
+
+The atelier is the physical heart of EDRIS.
+
+---
+
+# 12. DIGITAL HOUSE
+
+Primary digital worlds:
+- SHOP
+- TAILORING / TUX GEN
+- OBJECTS
+- JEWELRY
+- WATCHES
+- FRAGRANCE
+- TRAVEL
+- HOUSE
+- ARCHIVE
+- ATELIER
+
+Discovery works by product, outfit, family, occasion, material, weather, journey, object and story.
+
+AI may improve discovery and client assistance but must not become the identity of the house or enable intrusive surveillance.
+
+---
+
+# 13. CONTENT SYSTEM
+
+**THE HOUSE** — identity, architecture, craft.  
+**THE GARMENT** — tailoring, construction, material.  
+**THE OBJECT** — watches, jewelry, leather, eyewear.  
+**THE WORLD** — Iran, rain, ruins, nature, cities, night.  
+**THE HUMAN** — desire, ceremony, solitude, movement.  
+**THE ARCHIVE** — provenance, repair, aging, memory, legacy.
+
+Products appear inside worlds, not as endless isolated advertisements.
+
+---
+
+# 14. LAUNCH ARCHITECTURE
+
+## FOUNDATION
+001 TUXEDO; COLUMN; STRUCTURE SHIRT; FOUNDATION TEE; DISTRICT DENIM; RUIN; MONUMENT; DOSSIER; RABBIT; SEAL; HOUSE CUFFLINKS; HOUSE STUDS; OPERATIVE; AFTER THE RAIN; 12 CM BOW; TIE; POCKET SQUARE; VAULT.
+
+## SECOND MOVEMENT
+PATRON; AFTERHOURS; HEIRLOOM KNIT; MONSOON; PORTAL; WILD; OBSIDIAN; SPIRE; DECO; TWENTY-FOUR; NOIR; LINK; CREST; AXIS; HOUSE; ARCHIVE; MIDNIGHT; VOYAGE.
+
+## THIRD MOVEMENT
+NOCTURNE; SALON; RAIN; FRONTIER; RELIC; VECTOR; FOLD; CARD; PASSPORT; CINCTURE; WARDROBE; MASK; BASTION; RELIC PENDANT; RELIC BRACELET; NOCTURNE FRAGRANCE; OBSERVATORY; ALTAR; RELIQUARY; WET STONE.
+
+## FUTURE / CONDITIONAL
+OUTPOST; ORACLE; FIELD; RAIN ON STONE; GROOMING; BAR; DESK.
+
+Future products enter production only when they add a genuinely new function, silhouette or emotional world.
+
+---
+
+# 15. HOUSE COMPLETENESS CHECK
+
+EDRIS now has a deliberate answer for:
+
+- black-tie ceremony
+- formal tailoring
+- smart everyday
+- casual everyday
+- knitwear
+- denim
+- rain
+- winter
+- travel
+- rugged/feral expression
+- footwear
+- business/work
+- leather goods
+- eyewear
+- jewelry
+- watch
+- fragrance
+- grooming
+- home/object
+- bespoke service
+- provenance
+- archive
+
+The house is therefore **complete as an ecosystem without needing endless categories**.
+
+---
+
+# 16. QUALITY / RELEASE GATE
+
+Every product requires:
+- technical specification
+- approved material
+- approved hardware
+- prototype / golden sample
+- defined tolerances
+- QC checklist
+- packaging specification
+- care specification
+- archive record
+
+Commercial release additionally requires applicable regulatory, labeling, safety, costing, pricing, photography, product-story, provenance and aftercare records.
+
+---
+
+# 17. FINAL HOUSE PRINCIPLE
+
+**EDRIS sells a world, not a pile of products.**
+
+A tuxedo leads to a shirt.  
+A shirt leads to a suit.  
+A suit leads to a watch.  
+A watch leads to a leather object.  
+A leather object leads to travel.  
+Travel leads to fragrance.  
+Fragrance leads to memory.  
+Memory becomes archive.  
+Archive becomes legacy.
+
+**BUILD AGAINST TIME.**

@@ -1,0 +1,294 @@
+# USER DATA DUMP — EDRIS / PERSONAL PROJECTS
+
+**Prepared:** 2026-10-15  
+**Purpose:** Portable summary of user-specific facts, preferences, project decisions, and project files available to the assistant in its current saved context and Library.
+
+## Important scope and limitations
+This is a best-effort export of the user-specific information currently available to the assistant, not a complete account-level archive of every ChatGPT conversation, hidden system record, or every message ever sent. The assistant cannot independently retrieve every chat in the account as a single transcript. Some details below are explicit user-provided facts; others are summaries of prior project work. Where prior decisions conflict, the latest known canonical decision is preferred and older variants are identified as historical. The included files are existing Library artifacts that were accessible and materialized for this export; not every historical artifact is included.
+
+---
+
+# 1. Personal background and preferences
+
+## Identity / broad background
+- Name used for the fashion-house founder identity: **EDRIS NAZPARVAR**.
+- User has described themself as an **Iranian Turk born in Mazandaran**.
+- A cultural/geographic imagery path mentioned for the house: **Qaemshahr → Tehran → Paris → Rome → Los Angeles → New York**.
+- A prior conversation stated the user was 26 in 2023; this is a historical statement, not a verified current age.
+
+## Personality / creative tendencies inferred from conversations (not a diagnosis)
+- Highly imaginative, ambitious, systems-oriented, and interested in turning ideas into real, usable artifacts.
+- Strong preference for coherent worlds and unified design languages rather than isolated products.
+- Interested in both aesthetics and engineering: tailoring, product systems, vehicles, mechanical systems, digital tools, commercialization, and technical research.
+- Likes cinematic, dark, architectural, carefully engineered, distinctive designs; values originality and long-term identity.
+- Wants practical deliverables (patterns, technical specifications, PDFs, app prototypes, licensing plans) rather than only high-level discussion.
+- Iterative and exacting: frequently refines specifications and expects previous decisions to carry forward.
+- Strongly dislikes visual sloppiness, interwoven/overlapping pattern pieces, formatting defects, curved lapel lines, sagging/oversized proportions, and generic or costume-like design.
+- Wants design to feel fashionable and functional, not merely decorative.
+- These are conversational inferences and may not capture the whole person.
+
+---
+
+# 2. Project: EDRIS — House of Fashion
+
+## Canonical identity
+- Public house: **EDRIS**.
+- Descriptor: **A HOUSE OF FASHION — IRAN**.
+- House line: **BUILD AGAINST TIME.**
+- Founder / creative identity: **EDRIS NAZPARVAR**.
+- Crest: **THE MASKED RABBIT**.
+- Internal bespoke / atelier system: **TUX GEN**. TUX GEN is not intended as the public-facing house/sub-brand.
+
+## Philosophy and DNA
+Core thought: **“We civilize the wild. We build against time. We know everything eventually returns to nature. So we make something worth leaving behind.”**
+
+Master idea: civilization against nature, created in the face of mortality. Nature → life → desire → civilization → creation → decay → death; death completes the cycle.
+
+Permanent pillars:
+1. **Ancient Soul — Iran:** Iranian history, architecture, gardens, poetry, geometry, landscapes, metalwork and textiles translated subtly into design; Iran is the soul, not costume.
+2. **Dark Architecture:** Art Deco geometry as structural grammar; Gothic/ruin atmosphere, monumentality, melancholy and mortality without fantasy costume.
+3. **Cinematic Glamour:** Old Hollywood, James Bond precision, Godfather authority, Grand Budapest Hotel theatrical discipline, strong film-language detail.
+4. **The Feral Human:** instinct beneath civilization, sensuality, severity, danger, nature without literal animal costume.
+5. **The Machine:** functional/engineered detail, mechanical beauty, technology versus humanity.
+6. **Mortality:** time, ruins, memory, destiny, death, inheritance, artifacts and legacy.
+
+Influences discussed: Dark Souls mood; BioShock; Metal Gear Solid 4; Watch Dogs; Cyberpunk; steampunk as a restrained accent; Grand Budapest Hotel; James Bond; Vito Corleone; Bruce Wayne; Agent 47; Donnie Darko’s rabbit; HoZho mask concept. Art Deco / 1920s–30s geometry and Old Hollywood masculinity are foundational. Futurism, tactical engineering and cyberpunk are accents, not costume.
+
+Design test: beautiful at first glance, strange at second, meaningful at third; recognizable without the logo; Iranian in soul, architectural and materially convincing, durable enough to become an artifact, useful or emotionally necessary.
+
+## Product universe / catalogue
+House universe covers formal and casual clothing, bespoke tailoring, outerwear, footwear, leather goods, eyewear, jewelry, fragrance, accessories, watches/horology, grooming, future home/desk objects, packaging, atelier services, provenance, archive, quality standards and digital experiences.
+
+The catalogue evolved through versions 1.0, 2.0, 2.1, 3.0, ecosystem master v4.2 and execution master v5.0. **EDRIS House Catalogue v3.0** is a canonical product/house master in the available files; **Execution Master v5.0** is the execution-layer document. Older catalogue versions are retained as historical drafts.
+
+Product naming examples from the latest known house system include:
+- **001 — THE ONE OF ONE TUXEDO**
+- **THE OPERATIVE** — 001 watch concept
+- **AFTER THE RAIN** — 001 fragrance concept
+- **THE MASKED RABBIT** — house crest
+- Product names include STRUCTURE SHIRT, COLUMN, MONUMENT, DOSSIER, RABBIT, SEAL, HOUSE CUFFLINKS, HOUSE STUDS, OPERATIVE, VAULT, 12 CM BOW, FOUNDATION TEE, DISTRICT DENIM, RUIN, HEIRLOOM KNIT, AFTERHOURS, SPIRE, DECO, TWENTY-FOUR, NOIR, VOYAGE, AXIS, CREST, MIDNIGHT, ARCHIVE, PATRON, MONSOON, PORTAL, WILD, OBSIDIAN, FRONTIER, RAIN, RELIC, VECTOR, NOCTURNE, SALON, LINK, BASTION, MASK, RELIQUARY, OBSERVATORY, ALTAR and WET STONE.
+
+## Style / materials
+- Dark, architectural, cinematic luxury; near-black/deep forest black, ivory, aged silver and restrained oxblood.
+- Art Deco geometry and symmetry, machine-age luxury, gothic/ruin mood, Old Hollywood masculinity.
+- Avoid generic “Persian luxury,” Persian costume, costume Gothic, medieval fantasy, literal steampunk/cyberpunk cosplay, military cosplay, logo-covered luxury, fake aristocracy, generic quiet luxury, excessive skulls/gears/claws and cheap trend-chasing.
+- Jewelry language: aged/polished silver; Roman/architectural luxury (Bvlgari), Cartier-like refinement/status, Chrome Hearts-like substantial silver/gothic rebel craft; selective gold and dark metal.
+- Watch references: Seiko SKX007, Rolex Submariner, Vacheron Constantin; goal is a James Bond-like tactical-dress watch direction.
+- Sneaker references now part of DNA: Adidas Originals Adi2000, Niteball II and Yeezy 700.
+
+## Website / app ecosystem
+- Website/app should function as an ecosystem, not just a shop.
+- Proposed areas: HOUSE (editorial/campaigns/films), SHOP (controlled discovery), PASSPORT (authenticated object records), ATELIER (consultation, measurements, project status, fittings, approvals, messages, repairs), ARCHIVE (private owner archive plus public approved archive).
+- Digital passport fields may include piece ID, category, collection, creation date, materials, hardware, construction notes, pattern/version, atelier/craftsperson where appropriate, fitting/alteration history, authenticity/provenance with consent, care, photography, design notes and service history.
+- TUX GEN modules: client profile, measurements/body scan data, design concepts, garment configuration, material/hardware library, pattern records, fitting records, alterations, production workflow, QC, digital passport, provenance and archive.
+- Bespoke flow: consultation → measurement → design brief → material selection → configuration → pattern → toile/prototype → fitting → correction → final construction → QC → delivery → passport → archive → aftercare.
+- Privacy principles: minimum necessary personal data, access control, versioned patterns, timestamped measurements, revision history, production data separated from unnecessary personal data, documented corrections.
+- Intended bilingual Persian/English PWA/app. Earlier desired onboarding: up to 6 main questions before body scan plus 6 optional styling questions after scan; quick mode using user as default fit and bespoke mode; body scanning, visual models, textile suggestions by budget, tailoring manual/sketches and interactive modern UI.
+- Product concept must not overclaim technical capability: production-grade AI body scanning, accurate 3D cloth simulation, validated 1:1 pattern generation and production infrastructure require separate validated engineering.
+
+## Commercial/operational direction
+- Move from concept invention to physical/operational execution: production patterns, prototypes, fitting and revision, golden samples, material/hardware engineering, suppliers, costing/pricing, regulatory/labeling review, packaging, TUX GEN records, website/app data model, product photography/copy and launch.
+- No manipulative luxury tactics such as fake scarcity, countdowns or fabricated waitlists.
+- Quality gate includes safe construction, material performance, dimensional stability, hardware consistency, fit, closures, packaging, care instructions, provenance, labeling, supplier quality, regulatory review and conformity to approved golden sample.
+
+---
+
+# 3. Project: TUXEDO 001 — ONE OF ONE
+
+## Design direction (latest canonical spec)
+- House: EDRIS; older files still use “Uncle Ed’s” as a historical working name.
+- Identity: **001 / ONE OF ONE**.
+- Midnight / forest-black luxury wool; very dark green undertone only if extremely subtle, with plain black also considered.
+- Single-breasted, one button, long modern Hollywood/Savile Row body.
+- Sculpted but not exaggerated Hollywood shoulder; structured shoulder and sleeve head; high armhole; full canvas; horsehair chest.
+- Controlled waist; clean extended body; boxy/architectural rather than sagging or oversized.
+- **12 cm straight peak lapel — maximum and locked preference.** User strongly dislikes a visibly curved lapel line; straight controlled outer edge, straight/controlled inner edge, sharp symmetrical peak, no decorative “belly,” no exaggerated roll.
+- Deep black satin lapel facing; satin treatment considered for formal contrast. Later execution notes include satin facing.
+- Double-jetted pockets; double vents.
+- White fine formal cotton shirt, formal collar, French cuffs, clean/concealed front, aged-silver shirt studs.
+- Large architectural black butterfly bow tie.
+- Aged-silver jacket button and cufflinks.
+- White boutonniere / lapel rose and white pocket square discussed.
+- High-rise flat-front trousers, side adjusters, no belt loops. Historical specs conflict on satin trouser stripe: an earlier final master includes a black satin stripe; a prior user decision explicitly said no matching trouser stripe. Treat this as an unresolved version conflict that should be confirmed before production rather than silently assuming.
+- Hidden Iranian geometry; black/deep-forest cupro/Bemberg lining with restrained oxblood interior accents considered.
+- Approximate wool target in an earlier specification: 280–320 g/m², low-to-medium controlled sheen, good drape and structure.
+
+## Body and pattern information (user-provided / historical)
+Drafting base height: **180 cm** (user once said perhaps 181, but asked to use 180). Desired wearable range approximately 180–185 cm and 80–90 kg; user said current around 90 kg, wants suit to look best around 85 kg and still wearable at 80 and 90 kg. User wants a slimmer appearance; chest is larger; shoulders/biceps may increase; target posture is corrected/ideal posture. User wants to avoid later alterations and accommodate a range of body weights, but a real toile/fitting remains necessary.
+
+Body measurements supplied (cm):
+- Chest 105
+- Waist 101
+- Shoulder width 46
+- Back length 80
+- Sleeve 75
+- Bicep 35
+- Hips/seat 112
+- Thigh 60
+- Inseam 70
+- Neck 45
+
+Later desired/leaner draft values discussed:
+- Chest 110
+- Shoulder 50
+- Bicep 40
+- Seat 110
+- Thigh 60
+- Neck 45
+- Minimum waist 90
+
+Additional measurements supplied (cm):
+- Elbow 35
+- Shoulder to elbow 40
+- Front rise 38
+- Back rise 40
+- Calf circumference 43
+- Ankle circumference 26
+- Outseam 100
+- Pants worn to the left.
+
+A separate raw tailor chart was also supplied in a later conversation: 49 cm, 54 cm, 30 cm, 56 cm, 105 cm, 73 cm, 35 cm, 18 cm, and 70 cm shoulder-to-wrist. The meanings of all entries were not fully mapped in the stored summary; do not treat these as finished-garment measurements without reconciling the tailor's chart.
+
+Historical trouser spec included finished seat target 116–119 cm, thigh 64–66 cm, knee 45–46 cm, calf/ankle body references 43/26 cm, outseam reference 100 cm and a controlled slight break. Earlier spec says no stripe; later execution master includes stripe. Resolve before cutting.
+
+## Pattern / tailoring caveats
+- User reported previous generated pattern drawings looked abnormal, with pieces interwoven/overlapping. The goal is one large-format plotter pattern, not tiled A3/A4 sheets.
+- A 1:1 drawing/PDF exists in Library, but should not be assumed production-safe solely because it exists. Pattern pieces, grainlines, seam allowances, notches, balance points, pocket positions, button position, lapel break/roll, vents, cut quantities and scale must be checked.
+- A physical toile is required because posture, shoulder slope, arm pitch and left/right asymmetry cannot be inferred reliably from circumferences alone.
+- Fitting order: front/back balance → shoulder slope → collar/neck → chest → lapel roll → waist/side body → sleeve pitch → sleeve length → trouser rise/seat → thigh/knee/taper → hem/break. Do not suppress waist before balance is correct.
+
+---
+
+# 4. Project: Adaptive Buoyancy Recovery Platform / Titanic / Fragile Shipwrecks
+
+## Goal and intent
+- User described an original engineering concept for recovering fragile shipwrecks, including the Titanic, called an **adaptive buoyancy recovery platform**.
+- The central intent is to investigate whether the idea solves a real engineering problem or represents a meaningful engineering leap.
+- Commercial goal: potentially license the research/technology to a buyer and earn royalties, rather than necessarily manufacturing the system personally.
+- Desired work: technically honest development plan, rigorous research paper, equations and diagrams, prior-art awareness, and commercialization/licensing package.
+- User asked for a PDF deliverable and said they would send the original essay/files when they find them.
+
+## Development principles captured
+- Do not claim guaranteed patentability or novelty without a proper prior-art search and qualified patent advice.
+- Preserve confidentiality before public disclosure where patent rights matter; document inventorship, dates, design rationale, calculations and variants.
+- Develop a clear technical disclosure: problem statement, system architecture, buoyancy/force balance, load paths, structural constraints, control/monitoring concept, deployment/recovery sequence, failure modes, safety factors, test plan, uncertainty analysis and comparison to existing salvage methods.
+- Research paper should distinguish established engineering principles from hypotheses and unvalidated concept claims.
+- Commercial plan should identify potential licensees/buyers, value proposition, evidence needed for due diligence, IP strategy, staged proof-of-concept, and realistic royalty/licensing structures. No guarantee of sale or royalties.
+
+## Known limitation
+- The original full essay/specification is not present in the currently retrieved Library results. The concept summary is available, but detailed mechanism/equations cannot be reconstructed faithfully without the user's original notes. A library search did not surface a dedicated Titanic/shipwreck file in the available inventory.
+
+---
+
+# 5. Project: 206 WRC — Peugeot 206 / Iran
+
+- Project label: **206 WRC**.
+- Platform: **IKCO Peugeot 206 four-door sedan**, for Iran.
+- Exterior: white; white OZ Rally Racing 4x4 wheels.
+- Visual philosophy: keep the car looking relatively stock / silent-look; body changes should be discreet.
+- Drivetrain ambition: R32-style all-wheel drive concept.
+- Transmission: short-ratio 6-speed manual.
+- Engine concept: **EW10J4S twin-charged** (supercharger + turbocharger concept). The intent is a highly engineered dual-mode setup, not just a cosmetic build.
+- Operating modes: daily soft/low-consumption mode and a separate race mode.
+- Overall intent: usable daily drivability and lower consumption in one mode, high-performance behavior in race mode, with subtle exterior appearance.
+- This is a concept memory summary; detailed validated packaging, engine management, thermal, drivetrain, legality and safety engineering remain to be developed. Do not imply that the twin-charged AWD conversion is already engineered or proven.
+
+---
+
+# 6. Fragrance preferences and personal scent profile
+
+## Core scent direction
+Very dark, wet, bitter, inky, woody-green; mossy; wet cold forest; seaweed/salt/mineral water; oud; vetiver; sage; cardamom; ambroxan; tobacco; vanilla in restrained amounts. Strong longevity and prominent projection are desired. User dislikes overly sweet/cloying fragrances. Bitter-orange openings are acceptable if not sour. User wants seductive, dark and dangerous character, and likes rose.
+
+## Fragrances mentioned positively / references
+- Lalique Encre Noire — major reference/top reference.
+- Nasomatto Black Afgano.
+- Tom Ford Oud Minerale.
+- Bvlgari Man in Black.
+- Dior Sauvage Parfum.
+- YSL La Nuit de L’Homme Parfum — explicitly corrected by user as a top favorite.
+- Tom Ford Noir Extreme Parfum.
+- Parfums de Marly Oajan.
+- Bvlgari AQVA Atlantique.
+- Dior Homme Intense / Dior Homme Parfum.
+- Givenchy Gentleman Réserve Privée.
+- Aventus Absolu.
+- Green Irish Tweed.
+- Le Beau Le Parfum / Paradise Garden.
+- Black Opium and Jasmin Noir.
+
+## EDRIS fragrance concept
+**AFTER THE RAIN / THE BLACK TIE SHIPYARD**: dark aquatic woody amber extrait; rain-soaked forest plus derelict shipyard; cold mineral/ocean/rain air, oakmoss, smoke/campfire, incense, cognac/boozy facets, chocolate; possible clove, cinnamon, honey and ISO E Super. User likes the idea of Aventus Absolu’s appealing facets but wants more wet forest, darkness and seduction.
+
+---
+
+# 7. Education and career interests (historical context)
+
+- User previously stated they wanted a fully online, low-cost, credible education path without needing physical attendance in the United States and without a music undergraduate degree.
+- Background mentioned: associate degree in aviation management / civil air transportation; considered an aviation management bachelor's. Earlier architecture study in Iran, then software engineering through the final semester without graduation. Briefly attended/engaged with Brandon University Manitoba creative arts/drama/studio arts online; visa rejection prevented continuation.
+- Career interests: directing, acting, showmanship, business, broadcasting/telecom; music performance, composition, production, sound engineering, signal processing, effects pedals, amplifiers and backstage rigs.
+- Instruments/interests: guitar, saxophone/clarinet, bass, piano, drums.
+- Genres: jazz, blues, rock, metal, psychedelic, progressive, Latin and electronic.
+- Desired path once compared to Full Sail-style film directing major + music minor, but less business-heavy and with more theory/performance.
+- These are historical goals and may have changed.
+
+---
+
+# 8. Known Library artifacts related to these projects
+
+## EDRIS / TUX GEN documents and prototypes
+- `EDRIS_House_Catalogue_v1.0.md`
+- `EDRIS_House_Catalogue_v2.0.md`
+- `EDRIS_House_Catalogue_v2.1.md`
+- `EDRIS_House_Catalogue_v3.0.md`
+- `EDRIS_House_Ecosystem_Master_v4.2.md`
+- `EDRIS_House_Execution_Master_v5.0.md`
+- `EDRIS_App_Prototype_v1.0.md`
+- `EDRIS_Website_Prototype_v1.0.html`
+- `EDRIS_Six_Phase_Build_v1.0.zip`, `v2.0.zip`, `v3.0.zip`, `v4.0.zip`
+- `TUX-GEN-uncle-eds-prototype.zip`
+- `TUX-GEN-v0.2-complete.zip`
+- `TUX-GEN-v0.3-digital-atelier.zip`
+- `TUX-GEN-v0.4-psychological-atelier.zip`
+- `TUX-GEN-v1.0-house-redesign.zip`
+- `tuxgen-ui-preview.zip`
+- `UNCLE_EDS_TUX_GEN_PACKAGE.zip`
+
+## Tuxedo / tailoring artifacts
+- `EDRIS_001_SINGLE_PATTERN_DRAWING_1to1.pdf`
+- `EDRIS_001_SINGLE_PATTERN_DRAWING_PACK.zip`
+- `EDRIS_001_Printable_Pattern_Pack_v1.0.zip`
+- `UNCLE_EDS_001_FINAL_TAILORING_PATTERN_SPECIFICATION.pdf`
+- `UNCLE_EDS_001_COMPLETE_HOUSE_TAILOR_PATTERN_PACKET.pdf`
+- `UNCLE_EDS_001_FINAL_1TO1_TAILOR_CUT_PATTERN.pdf`
+- `UNCLE_EDS_001_TAILOR_MASTER_PATTERN_PACKET.pdf`
+- `tuxedo_tailoring_drafting_sheet.pdf`
+- `الگوی_دوخت_تاکسیدو_فارسی.pdf`
+- Visual assets include `House of Edris 001 Tuxedo Lookbook.png`, `Black Tuxedo Technical Lookbook Board.png`, `Modern Classic Tuxedo Lookbook.png`, `Persian Tuxedo Pattern Blueprint.png`, and `The Tuxedo: Classic Elegance, Modern Presence.png`.
+
+## Important artifact warning
+Several artifacts are historical iterations and may duplicate or conflict. This export includes a selected working set, not every file ever generated. For production, use the latest canonical design brief plus verified pattern/fitting records, not file names alone.
+
+---
+
+# 9. Current known preferences about how the assistant should work with these projects
+
+- Carry forward prior decisions and context rather than making the user repeat them.
+- Distinguish a concept from a validated engineering design.
+- Be honest about uncertainties, prior art, manufacturability and technical limits.
+- When creating tailoring documents, ensure the drawings are clean, non-overlapping, correctly scaled and usable by a tailor; avoid presenting an unvalidated pattern as ready to cut.
+- Keep EDRIS's house identity coherent and avoid reverting to the old “Uncle Ed’s” name as the public brand, while retaining older filenames as historical artifacts.
+- For the shipwreck concept, preserve confidentiality and prepare an IP-aware commercialization path; do not promise patentability or a guaranteed buyer.
+- For 206 WRC, preserve the twin-charged EW10J4S, AWD concept, short-ratio six-speed, white body/wheels, stock-looking exterior, and separate daily/race modes as the remembered concept.
+
+---
+
+# 10. What is not included / cannot be guaranteed by this dump
+
+- A verbatim transcript of every chat in the account.
+- Every message, attachment, image, or deleted/archived conversation.
+- Private account data, internal telemetry, hidden system records, or platform-side records inaccessible to the assistant.
+- A complete, verified technical specification for the Titanic recovery platform: the original essay/files were not found in the accessible Library inventory.
+- Confirmation that every listed historical measurement or design choice is still current; conflicts are noted where known.
+
+For a true account-wide conversation archive, use ChatGPT's own **Settings → Data Controls → Export Data** workflow. That export is separate from this curated project/personality dump.
