@@ -1,0 +1,165 @@
+UNCLE ED’S 001 — ONE OF ONE
+Page 1
+UNCLE ED’S 001 — ONE OF ONE
+FINAL TAILORING / MASTER PATTERN SPECIFICATION
+By Edris Nazparvar • 2026
+Purpose. Controlled drafting specification for the final 001 tuxedo. Finished measurements are garment targets; drafting allowances are
+added outside them. The master must be drafted through a professional bespoke block rather than by scaling a rectangle or polygon.
+Supersession. This final 001 specification replaces the earlier 11.4 cm lapel and trouser-side-stripe draft: lapel is 12 cm, outer edge
+straight, and the trouser has no satin stripe.
+1. BODY & FINISHED DIMENSIONS
+Measure
+Body
+Finished / drafting target
+Height
+180 cm
+Fit at actual height
+Chest
+105 cm
+112–114 cm
+Waist
+101 cm
+106–108 cm
+Seat
+112 cm
+116–118 cm
+Shoulder
+46 cm
+47–48 cm
+Neck
+45 cm
+Draft, then verify collar
+Across chest
+49 cm
+Front balance reference
+Across back
+54 cm
+Back balance reference
+Armhole
+56 cm
+High, controlled armhole
+Bicep
+35 cm
+Full functional sleeve
+Shoulder→elbow
+40 cm
+Sleeve pitch reference
+Shoulder→wrist
+70 cm
+Initial sleeve length reference
+Elbow
+35 cm
+Articulated sleeve
+Thigh
+60 cm
+64–66 cm finished
+Knee
+47 cm
+45–46 cm finished
+Calf
+43 cm
+Preserve movement
+Ankle
+26 cm
+Shoe-dependent opening
+Front rise
+38 cm
+Final
+Back rise
+40 cm
+Final
+Outseam
+100 cm
+Final reference
+Inseam
+70 cm
+Set with shoe
+
+UNCLE ED’S 001 — ONE OF ONE
+Page 2
+2. JACKET MASTER SPECIFICATION
+Area
+Final 001 construction
+Silhouette
+Structured boxy Hollywood fit; full chest; controlled waist; long clean body; controlled mass.
+Front
+Crossover single-button architecture; one functional closure; controlled overlap.
+Button
+25–28 mm aged-silver house logo; slightly low/moderate stance.
+Length
+78–80 cm finished; exact hem established during balance fitting.
+Shoulder
+47–48 cm finished; slight extension, natural rather than military.
+Armhole
+High armhole, clean scye; enough mobility without a low oversized opening.
+Chest / waist / seat
+112–114 / 106–108 / 116–118 cm finished.
+Vents
+Double vents, 26–28 cm.
+Pockets
+Jetted/clean; restrained breast welt; no external utility.
+Construction
+Full canvas; shaped chest; hand-padded lapel; reinforced stress points.
+Sleeve
+Two-piece; full bicep; articulated elbow; natural pitch; 4 functional cuff buttons.
+Shirt cuff
+1.5–2 cm visible.
+Lapel
+12 cm peak; high controlled gorge; elongated peak; completely straight outer edge.
+Facing
+Black satin/grosgrain, controlled sheen, full facing.
+Collar
+Black satin; clean transition into lapel.
+Exterior rule
+No shoulder boards, straps, tactical webbing, military insignia, decorative utility or uniform cues.
+Pattern pieces: left front, right front, side body, back, upper sleeve, under sleeve, collar, lapel/facing, pocket welts/bags, vent
+reinforcement and canvas/interlining pieces. Mark grain, balance marks, notches, pocket levels, button position, roll line, break line, lapel
+peak and all cut quantities.
+
+UNCLE ED’S 001 — ONE OF ONE
+Page 3
+3. TROUSER MASTER SPECIFICATION
+Area
+Final 001 specification
+Rise
+Front 38 cm / back 40 cm; high natural waist.
+Waistband
+4.5 cm finished; 5 cm absolute maximum.
+Closure
+Concealed hook-and-bar; side adjusters; no belt loops.
+Front
+Flat front; clean crease.
+Seat
+116–119 cm finished starting target.
+Thigh
+64–66 cm finished.
+Knee
+45–46 cm finished.
+Calf / ankle
+Use 43 / 26 cm body references; draft movement allowance and set opening with shoe.
+Length
+100 cm outseam reference; final hem with tuxedo shoe.
+Break
+Minimal controlled slight break; no pooling.
+Stripe
+NONE — earlier draft superseded.
+Pockets
+Clean side pockets and rear welt pockets.
+4. SHIRT / ACCESSORIES
+White fine formal cotton shirt • formal collar • French cuffs • aged-silver studs • large black butterfly bow tie proportioned deliberately to the
+12 cm lapel • clean black formal shoe.
+5. INTERIOR / MATERIAL
+Deepest black wool, approximately 280–320 g/m², low-to-medium controlled sheen, excellent drape and sufficient structure.
+Black/deep-forest cupro/Bemberg lining with restrained oxblood hidden accents. Label: UNCLE ED’S / By Edris Nazparvar / 001 / ONE
+OF ONE / 2026.
+6. DRAFTING CONTROL
+Add seam allowances outside finished dimensions. Keep generous toile allowances at shoulder, side body, center back, collar, sleeve
+and trouser seat/rise. Mark grainlines, notches, balance points, darts, pocket positions, button position, lapel roll/break, vent ends and cut
+quantities. Every piece must read: UNCLE ED’S 001 / piece name / cut quantity / grainline / seam allowance.
+7. FITTING ORDER
+Correct in this order: front/back balance → shoulder slope → collar/neck → chest → lapel roll → waist/side body → sleeve pitch → sleeve
+length → trouser rise/seat → thigh/knee/taper → hem/break. Never waist-suppress before balance is correct.
+8. STATUS
+FINAL DESIGN SPECIFICATION / BESPOKE MASTER DRAFT. This is the correct production brief and measurement control sheet. A
+physical toile is still required before cutting the final cloth because posture, shoulder slope, arm pitch and left/right asymmetry cannot be
+inferred reliably from circumference measurements alone.

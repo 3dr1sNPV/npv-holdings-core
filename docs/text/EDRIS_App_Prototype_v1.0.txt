@@ -1,0 +1,65 @@
+# EDRIS — THE HOUSE APP v1.0
+
+## Product purpose
+A private mobile layer for the EDRIS house: discovery, commerce, digital passport, atelier communication, appointments, aftercare and archive.
+
+## Navigation
+HOUSE / SHOP / PASSPORT / ATELIER / ARCHIVE
+
+## HOUSE
+- Campaign hero
+- Current collection
+- Film
+- House story
+- New object releases
+- Fragrance world
+
+## SHOP
+- Categories: tailoring, casual, outerwear, leather, footwear, jewelry, eyewear, fragrance, watches, objects
+- Filters: material, color, fit, occasion, collection, availability
+- Product page mirrors website but adds saved items and private recommendations
+
+## PASSPORT
+- My EDRIS objects
+- Authenticity
+- Provenance
+- Care
+- Service
+- Alterations
+- Warranty/records where applicable
+- Watch serial/movement/service history
+- Bespoke garment pattern and fitting history
+
+## ATELIER
+- Book consultation
+- Measurement appointment
+- Fitting calendar
+- Bespoke project status
+- Approvals
+- Secure atelier messaging
+- Repair/alteration request
+
+## ARCHIVE
+- Personal collection timeline
+- Public house archive
+- Campaigns
+- Product stories
+- Approved historical pieces
+
+## Personalization rules
+Use explicit preferences, purchase history and fitting data only where necessary and consented. The app must make privacy visible and controllable. No behavioral surveillance aesthetic, no spam, no artificial scarcity.
+
+## Signature feature: THE OBJECT PASSPORT
+Scan/enter the object ID to open its authenticated EDRIS record. The owner sees a private timeline of the object from creation through service and ownership/provenance events that they choose to record.
+
+## Signature feature: ATELIER MIRROR
+A private client view of the current bespoke project: silhouette, cloth, hardware, pattern revision, fitting stage, approvals and final archive record.
+
+## Signature feature: THE HOUSE EDIT
+A restrained personal edit: 3–8 products that work together based on the client's actual wardrobe, preferences, climate and occasion. Never a feed of endless recommendations.
+
+## Push notification policy
+Only meaningful service and client events. No daily promotional spam.
+
+## Visual design
+Near-black background, ivory type, aged-silver accents, editorial serif for stories, restrained sans for controls, sharp geometry, no excessive rounded cards, no gamified behavior.

@@ -1,0 +1,394 @@
+[
+  {
+    "source": "docs/raw/chat-history/AI/A research essay concerning Electronic Baggage Tags.docx",
+    "text_path": "docs/text/A research essay concerning Electronic Baggage Tags.txt",
+    "chunk_path": "docs/chunks/A research essay concerning Electronic Baggage Tags.jsonl",
+    "size_bytes": 1897063,
+    "chars": 52319,
+    "extension": ".docx"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/Aviation Logistics Ecosystem_ Master Build Manual & Patent Compendium.pdf",
+    "text_path": "docs/text/Aviation Logistics Ecosystem_ Master Build Manual & Patent Compendium.txt",
+    "chunk_path": "docs/chunks/Aviation Logistics Ecosystem_ Master Build Manual & Patent Compendium.jsonl",
+    "size_bytes": 246884,
+    "chars": 5362,
+    "extension": ".pdf"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/ChatGPT Image Oct 4, 2026 at 10_46_24 AM.png",
+    "text_path": "docs/text/ChatGPT Image Oct 4, 2026 at 10_46_24 AM.txt",
+    "chunk_path": "docs/chunks/ChatGPT Image Oct 4, 2026 at 10_46_24 AM.jsonl",
+    "size_bytes": 1813377,
+    "chars": 1034,
+    "extension": ".png"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/Comprehensive ISI Research Paper & Technical Dossier.pdf",
+    "text_path": "docs/text/Comprehensive ISI Research Paper & Technical Dossier.txt",
+    "chunk_path": "docs/chunks/Comprehensive ISI Research Paper & Technical Dossier.jsonl",
+    "size_bytes": 299914,
+    "chars": 7010,
+    "extension": ".pdf"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/All_Library_Artifacts/batch1/Black Tuxedo Technical Lookbook Board.png",
+    "text_path": "docs/text/Black Tuxedo Technical Lookbook Board.txt",
+    "chunk_path": "docs/chunks/Black Tuxedo Technical Lookbook Board.jsonl",
+    "size_bytes": 1786462,
+    "chars": 1279,
+    "extension": ".png"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/All_Library_Artifacts/batch1/EDRIS_House_Catalogue_v1.0.md",
+    "text_path": "docs/text/EDRIS_House_Catalogue_v1.0.txt",
+    "chunk_path": "docs/chunks/EDRIS_House_Catalogue_v1.0.jsonl",
+    "size_bytes": 19476,
+    "chars": 19354,
+    "extension": ".md"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/All_Library_Artifacts/batch1/EDRIS_House_Catalogue_v2.0.md",
+    "text_path": "docs/text/EDRIS_House_Catalogue_v2.0.txt",
+    "chunk_path": "docs/chunks/EDRIS_House_Catalogue_v2.0.jsonl",
+    "size_bytes": 35283,
+    "chars": 34938,
+    "extension": ".md"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/All_Library_Artifacts/batch1/EDRIS_House_Catalogue_v2.1.md",
+    "text_path": "docs/text/EDRIS_House_Catalogue_v2.1.txt",
+    "chunk_path": "docs/chunks/EDRIS_House_Catalogue_v2.1.jsonl",
+    "size_bytes": 36398,
+    "chars": 36055,
+    "extension": ".md"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/All_Library_Artifacts/batch2/EDRIS_House_Catalogue_v3.0(1).md",
+    "text_path": "docs/text/EDRIS_House_Catalogue_v3.0(1).txt",
+    "chunk_path": "docs/chunks/EDRIS_House_Catalogue_v3.0(1).jsonl",
+    "size_bytes": 37125,
+    "chars": 36778,
+    "extension": ".md"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/All_Library_Artifacts/batch2/EDRIS_House_Ecosystem_Master_v4.2.md",
+    "text_path": "docs/text/EDRIS_House_Ecosystem_Master_v4.2.txt",
+    "chunk_path": "docs/chunks/EDRIS_House_Ecosystem_Master_v4.2.jsonl",
+    "size_bytes": 18316,
+    "chars": 17739,
+    "extension": ".md"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/All_Library_Artifacts/batch2/EDRIS_House_Execution_Master_v5.0.md",
+    "text_path": "docs/text/EDRIS_House_Execution_Master_v5.0.txt",
+    "chunk_path": "docs/chunks/EDRIS_House_Execution_Master_v5.0.jsonl",
+    "size_bytes": 19638,
+    "chars": 19338,
+    "extension": ".md"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/All_Library_Artifacts/batch4/Modern Classic Tuxedo Lookbook.png",
+    "text_path": "docs/text/Modern Classic Tuxedo Lookbook.txt",
+    "chunk_path": "docs/chunks/Modern Classic Tuxedo Lookbook.jsonl",
+    "size_bytes": 1920803,
+    "chars": 378,
+    "extension": ".png"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/All_Library_Artifacts/batch4/Persian Tuxedo Pattern Blueprint.png",
+    "text_path": "docs/text/Persian Tuxedo Pattern Blueprint.txt",
+    "chunk_path": "docs/chunks/Persian Tuxedo Pattern Blueprint.jsonl",
+    "size_bytes": 1813377,
+    "chars": 1034,
+    "extension": ".png"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/All_Library_Artifacts/batch4/index.html",
+    "text_path": "docs/text/index.txt",
+    "chunk_path": "docs/chunks/index.jsonl",
+    "size_bytes": 3827,
+    "chars": 3815,
+    "extension": ".html"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/All_Library_Artifacts/batch5/The Tuxedo: Classic Elegance, Modern Presence.png",
+    "text_path": "docs/text/The Tuxedo: Classic Elegance, Modern Presence.txt",
+    "chunk_path": "docs/chunks/The Tuxedo: Classic Elegance, Modern Presence.jsonl",
+    "size_bytes": 1796902,
+    "chars": 607,
+    "extension": ".png"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/All_Library_Artifacts/batch5/saved-image-file_000000000a60820a816e98aa92944a22.jpg",
+    "text_path": "docs/text/saved-image-file_000000000a60820a816e98aa92944a22.txt",
+    "chunk_path": "docs/chunks/saved-image-file_000000000a60820a816e98aa92944a22.jsonl",
+    "size_bytes": 189197,
+    "chars": 0,
+    "extension": ".jpg"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/All_Library_Artifacts/batch5/saved-image-file_00000000293c820a9e93c7d35de7bdc5.jpg",
+    "text_path": "docs/text/saved-image-file_00000000293c820a9e93c7d35de7bdc5.txt",
+    "chunk_path": "docs/chunks/saved-image-file_00000000293c820a9e93c7d35de7bdc5.jsonl",
+    "size_bytes": 97196,
+    "chars": 0,
+    "extension": ".jpg"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/All_Library_Artifacts/batch5/saved-image-file_00000000ac808210afc63ec45ea8a3b0.jpg",
+    "text_path": "docs/text/saved-image-file_00000000ac808210afc63ec45ea8a3b0.txt",
+    "chunk_path": "docs/chunks/saved-image-file_00000000ac808210afc63ec45ea8a3b0.jsonl",
+    "size_bytes": 27626,
+    "chars": 0,
+    "extension": ".jpg"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/All_Library_Artifacts/batch5/tuxedo_tailoring_drafting_sheet.pdf",
+    "text_path": "docs/text/tuxedo_tailoring_drafting_sheet.txt",
+    "chunk_path": "docs/chunks/tuxedo_tailoring_drafting_sheet.jsonl",
+    "size_bytes": 34353,
+    "chars": 6036,
+    "extension": ".pdf"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/All_Library_Artifacts/batch6/EDRIS_House_Catalogue_v1.0.md",
+    "text_path": "docs/text/EDRIS_House_Catalogue_v1.0.txt",
+    "chunk_path": "docs/chunks/EDRIS_House_Catalogue_v1.0.jsonl",
+    "size_bytes": 19476,
+    "chars": 19354,
+    "extension": ".md"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/All_Library_Artifacts/batch6/UNCLE_EDS_001_FINAL_1TO1_TAILOR_CUT_PATTERN.pdf",
+    "text_path": "docs/text/UNCLE_EDS_001_FINAL_1TO1_TAILOR_CUT_PATTERN.txt",
+    "chunk_path": "docs/chunks/UNCLE_EDS_001_FINAL_1TO1_TAILOR_CUT_PATTERN.jsonl",
+    "size_bytes": 92284,
+    "chars": 5007,
+    "extension": ".pdf"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/All_Library_Artifacts/batch6/UNCLE_EDS_001_TAILOR_MASTER_PATTERN_PACKET.pdf",
+    "text_path": "docs/text/UNCLE_EDS_001_TAILOR_MASTER_PATTERN_PACKET.txt",
+    "chunk_path": "docs/chunks/UNCLE_EDS_001_TAILOR_MASTER_PATTERN_PACKET.jsonl",
+    "size_bytes": 33694,
+    "chars": 5843,
+    "extension": ".pdf"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/Builds_and_Visuals/House of Edris 001 Tuxedo Lookbook.png",
+    "text_path": "docs/text/House of Edris 001 Tuxedo Lookbook.txt",
+    "chunk_path": "docs/chunks/House of Edris 001 Tuxedo Lookbook.jsonl",
+    "size_bytes": 1833426,
+    "chars": 187,
+    "extension": ".png"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/EDRIS/EDRIS_App_Prototype_v1.0.md",
+    "text_path": "docs/text/EDRIS_App_Prototype_v1.0.txt",
+    "chunk_path": "docs/chunks/EDRIS_App_Prototype_v1.0.jsonl",
+    "size_bytes": 2328,
+    "chars": 2323,
+    "extension": ".md"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/EDRIS/EDRIS_House_Catalogue_v3.0.md",
+    "text_path": "docs/text/EDRIS_House_Catalogue_v3.0.txt",
+    "chunk_path": "docs/chunks/EDRIS_House_Catalogue_v3.0.jsonl",
+    "size_bytes": 37125,
+    "chars": 36778,
+    "extension": ".md"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/EDRIS/EDRIS_House_Ecosystem_Master_v4.2.md",
+    "text_path": "docs/text/EDRIS_House_Ecosystem_Master_v4.2.txt",
+    "chunk_path": "docs/chunks/EDRIS_House_Ecosystem_Master_v4.2.jsonl",
+    "size_bytes": 18316,
+    "chars": 17739,
+    "extension": ".md"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/EDRIS/EDRIS_House_Execution_Master_v5.0.md",
+    "text_path": "docs/text/EDRIS_House_Execution_Master_v5.0.txt",
+    "chunk_path": "docs/chunks/EDRIS_House_Execution_Master_v5.0.jsonl",
+    "size_bytes": 19638,
+    "chars": 19338,
+    "extension": ".md"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/EDRIS/EDRIS_Website_Prototype_v1.0.html",
+    "text_path": "docs/text/EDRIS_Website_Prototype_v1.0.txt",
+    "chunk_path": "docs/chunks/EDRIS_Website_Prototype_v1.0.jsonl",
+    "size_bytes": 7044,
+    "chars": 7012,
+    "extension": ".html"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/EXPORT_MANIFEST.md",
+    "text_path": "docs/text/EXPORT_MANIFEST.txt",
+    "chunk_path": "docs/chunks/EXPORT_MANIFEST.jsonl",
+    "size_bytes": 1000,
+    "chars": 993,
+    "extension": ".md"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/Tuxedo_001/EDRIS_001_SINGLE_PATTERN_DRAWING_1to1.pdf",
+    "text_path": "docs/text/EDRIS_001_SINGLE_PATTERN_DRAWING_1to1.txt",
+    "chunk_path": "docs/chunks/EDRIS_001_SINGLE_PATTERN_DRAWING_1to1.jsonl",
+    "size_bytes": 29111,
+    "chars": 1158,
+    "extension": ".pdf"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/Tuxedo_001/UNCLE_EDS_001_COMPLETE_HOUSE_TAILOR_PATTERN_PACKET.pdf",
+    "text_path": "docs/text/UNCLE_EDS_001_COMPLETE_HOUSE_TAILOR_PATTERN_PACKET.txt",
+    "chunk_path": "docs/chunks/UNCLE_EDS_001_COMPLETE_HOUSE_TAILOR_PATTERN_PACKET.jsonl",
+    "size_bytes": 42658,
+    "chars": 7413,
+    "extension": ".pdf"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/Tuxedo_001/UNCLE_EDS_001_FINAL_TAILORING_PATTERN_SPECIFICATION.pdf",
+    "text_path": "docs/text/UNCLE_EDS_001_FINAL_TAILORING_PATTERN_SPECIFICATION.txt",
+    "chunk_path": "docs/chunks/UNCLE_EDS_001_FINAL_TAILORING_PATTERN_SPECIFICATION.jsonl",
+    "size_bytes": 33237,
+    "chars": 5080,
+    "extension": ".pdf"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/Tuxedo_001/الگوی_دوخت_تاکسیدو_فارسی.pdf",
+    "text_path": "docs/text/الگوی_دوخت_تاکسیدو_فارسی.txt",
+    "chunk_path": "docs/chunks/الگوی_دوخت_تاکسیدو_فارسی.jsonl",
+    "size_bytes": 47851,
+    "chars": 4012,
+    "extension": ".pdf"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_ALL_PERSONAL_DATA_AND_PROJECTS(1)/USER_DATA_DUMP.md",
+    "text_path": "docs/text/USER_DATA_DUMP.txt",
+    "chunk_path": "docs/chunks/USER_DATA_DUMP.jsonl",
+    "size_bytes": 23562,
+    "chars": 23391,
+    "extension": ".md"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_House_Ideology_and_Founder_Profile.docx",
+    "text_path": "docs/text/EDRIS_House_Ideology_and_Founder_Profile.txt",
+    "chunk_path": "docs/chunks/EDRIS_House_Ideology_and_Founder_Profile.jsonl",
+    "size_bytes": 43166,
+    "chars": 13230,
+    "extension": ".docx"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_MASTER_CONTEXT_FOR_GEMINI.md",
+    "text_path": "docs/text/EDRIS_MASTER_CONTEXT_FOR_GEMINI.txt",
+    "chunk_path": "docs/chunks/EDRIS_MASTER_CONTEXT_FOR_GEMINI.jsonl",
+    "size_bytes": 766490,
+    "chars": 747892,
+    "extension": ".md"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/EDRIS_MASTER_IDEOLOGY_TUXEDO_001_ALL_MEASUREMENTS.docx",
+    "text_path": "docs/text/EDRIS_MASTER_IDEOLOGY_TUXEDO_001_ALL_MEASUREMENTS.txt",
+    "chunk_path": "docs/chunks/EDRIS_MASTER_IDEOLOGY_TUXEDO_001_ALL_MEASUREMENTS.jsonl",
+    "size_bytes": 48686,
+    "chars": 21894,
+    "extension": ".docx"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/House of Edris 001 Tuxedo Lookbook 2.png",
+    "text_path": "docs/text/House of Edris 001 Tuxedo Lookbook 2.txt",
+    "chunk_path": "docs/chunks/House of Edris 001 Tuxedo Lookbook 2.jsonl",
+    "size_bytes": 1833426,
+    "chars": 187,
+    "extension": ".png"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/House of Edris 001 Tuxedo Lookbook.png",
+    "text_path": "docs/text/House of Edris 001 Tuxedo Lookbook.txt",
+    "chunk_path": "docs/chunks/House of Edris 001 Tuxedo Lookbook.jsonl",
+    "size_bytes": 1833426,
+    "chars": 187,
+    "extension": ".png"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/ISI Research Paper & Technical Dossier.pdf",
+    "text_path": "docs/text/ISI Research Paper & Technical Dossier.txt",
+    "chunk_path": "docs/chunks/ISI Research Paper & Technical Dossier.jsonl",
+    "size_bytes": 274578,
+    "chars": 5577,
+    "extension": ".pdf"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/The Tuxedo_ Classic Elegance, Modern Presence.png",
+    "text_path": "docs/text/The Tuxedo_ Classic Elegance, Modern Presence.txt",
+    "chunk_path": "docs/chunks/The Tuxedo_ Classic Elegance, Modern Presence.jsonl",
+    "size_bytes": 1796902,
+    "chars": 607,
+    "extension": ".png"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/UNCLE_EDS_001_FINAL_1TO1_TAILOR_CUT_PATTERN.pdf",
+    "text_path": "docs/text/UNCLE_EDS_001_FINAL_1TO1_TAILOR_CUT_PATTERN.txt",
+    "chunk_path": "docs/chunks/UNCLE_EDS_001_FINAL_1TO1_TAILOR_CUT_PATTERN.jsonl",
+    "size_bytes": 92284,
+    "chars": 5007,
+    "extension": ".pdf"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/UNCLE_EDS_001_FINAL_TAILORING_PATTERN_SPECIFICATION.pdf",
+    "text_path": "docs/text/UNCLE_EDS_001_FINAL_TAILORING_PATTERN_SPECIFICATION.txt",
+    "chunk_path": "docs/chunks/UNCLE_EDS_001_FINAL_TAILORING_PATTERN_SPECIFICATION.jsonl",
+    "size_bytes": 33237,
+    "chars": 5080,
+    "extension": ".pdf"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/tuxedo_tailoring_drafting_sheet.pdf",
+    "text_path": "docs/text/tuxedo_tailoring_drafting_sheet.txt",
+    "chunk_path": "docs/chunks/tuxedo_tailoring_drafting_sheet.jsonl",
+    "size_bytes": 34353,
+    "chars": 6036,
+    "extension": ".pdf"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/‎Gemini - direct access to Google AI 2.pdf",
+    "text_path": "docs/text/‎Gemini - direct access to Google AI 2.txt",
+    "chunk_path": "docs/chunks/‎Gemini - direct access to Google AI 2.jsonl",
+    "size_bytes": 2338085,
+    "chars": 556077,
+    "extension": ".pdf"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/‎Gemini - direct access to Google AI 3.pdf",
+    "text_path": "docs/text/‎Gemini - direct access to Google AI 3.txt",
+    "chunk_path": "docs/chunks/‎Gemini - direct access to Google AI 3.jsonl",
+    "size_bytes": 2461231,
+    "chars": 635054,
+    "extension": ".pdf"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/‎Gemini - direct access to Google AI 4.pdf",
+    "text_path": "docs/text/‎Gemini - direct access to Google AI 4.txt",
+    "chunk_path": "docs/chunks/‎Gemini - direct access to Google AI 4.jsonl",
+    "size_bytes": 276747,
+    "chars": 10638,
+    "extension": ".pdf"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/‎Gemini - direct access to Google AI 5.pdf",
+    "text_path": "docs/text/‎Gemini - direct access to Google AI 5.txt",
+    "chunk_path": "docs/chunks/‎Gemini - direct access to Google AI 5.jsonl",
+    "size_bytes": 2713619,
+    "chars": 355638,
+    "extension": ".pdf"
+  },
+  {
+    "source": "docs/raw/chat-history/AI/‎Gemini - direct access to Google AI.pdf",
+    "text_path": "docs/text/‎Gemini - direct access to Google AI.txt",
+    "chunk_path": "docs/chunks/‎Gemini - direct access to Google AI.jsonl",
+    "size_bytes": 3485942,
+    "chars": 717495,
+    "extension": ".pdf"
+  }
+]

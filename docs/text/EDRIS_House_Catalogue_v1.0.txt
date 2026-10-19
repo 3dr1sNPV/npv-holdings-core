@@ -1,0 +1,853 @@
+# EDRIS — HOUSE CATALOGUE v1.0
+## A HOUSE OF FASHION — IRAN
+### BUILD AGAINST TIME.
+
+**Status:** Canonical working catalogue / product design master
+**House:** EDRIS
+**Internal bespoke system:** TUX GEN
+**House crest:** The Masked Rabbit
+
+---
+
+## 1. HOUSE PRINCIPLE
+
+EDRIS is a complete luxury house spanning formal and casual clothing, bespoke tailoring, footwear, leather goods, accessories, eyewear, jewelry, fragrance, future horology, grooming and selected home objects.
+
+Core philosophy:
+
+> We civilize the wild. We build against time. We know everything eventually returns to nature. So we make something worth leaving behind.
+
+Design test:
+1. Beautiful at first glance.
+2. Slightly strange at second glance.
+3. Meaningful at third glance.
+4. Recognizably EDRIS without a logo.
+5. Iranian in soul, never costume.
+6. Architectural, crafted, durable and capable of becoming an artifact.
+
+---
+
+# 2. MASTER DESIGN LANGUAGE
+
+**Iran:** soul and hidden geometry.
+**Art Deco:** symmetry, verticality, stepped geometry, radiating lines and machine-age elegance.
+**Gothic/ruins:** monumentality, melancholy, mortality and mystery.
+**Old Hollywood:** glamour, tuxedo culture, masculine myth.
+**Grand Budapest:** immaculate period precision and theatrical discipline.
+**Bond:** precision and seduction.
+**Godfather:** authority and heritage.
+**Scorsese/Tarantino/Fincher:** character, iconic objects, tension, darkness and obsessive control.
+**Feral Human:** instinct beneath civilization.
+**Machine:** engineered function and human technology.
+**Mortality:** time, decay, memory, destiny and legacy.
+
+Core contrasts:
+- black × white
+- polished × oxidized
+- soft wool × hard metal
+- animal × mask
+- ancient × futuristic
+- Iran × Hollywood
+- beauty × unease
+- life × death
+
+Primary palette:
+- Midnight Black
+- Black
+- Forest Black
+- Ink
+- Deep Bottle Green
+- Midnight Navy
+- Deep Burgundy
+- Ivory
+- Aged Silver
+- Gunmetal
+
+---
+
+# 3. HOUSE SYMBOL SYSTEM
+
+## THE MASKED RABBIT
+
+Front-facing, symmetrical, vertically elongated, severe and intelligent. Long narrow ears; architectural facial planes; deep recessed eyes; angular elongated muzzle; subtle Iranian geometry; Art Deco portal frame; lower geometry suggesting an obelisk/tomb.
+
+Three official marks:
+1. FULL CREST — rabbit + portal
+2. MASKED RABBIT — rabbit only
+3. RABBIT SILHOUETTE — simplified mark
+
+Master physical treatment: blackened/aged sterling silver with polished high points, brushed surfaces and oxidized recesses.
+
+The rabbit is a house signature, not a decorative animal motif.
+
+---
+
+# 4. FORMAL CLOTHING
+
+## EDRIS 001 — ONE OF ONE TUXEDO
+**Status: LOCKED FOUNDATION PIECE**
+
+- Midnight/forest-black luxury wool, target 280–320 gsm
+- Single-breasted, one-button
+- Long architectural body, approximately 79–80 cm finished length subject to fitting
+- Controlled Hollywood shoulder
+- High armhole
+- Full canvas
+- Horsehair chest piece
+- Structured shoulder and sleeve head
+- Double-jetted pockets
+- Double vents
+- **12 cm straight peak lapel**, deep black satin; line must read straight, crisp and architectural, never visibly curved
+- White fine formal cotton shirt
+- Formal collar
+- Concealed/clean front
+- French cuffs
+- Aged-silver studs
+- Large black butterfly bow tie
+- High-rise flat-front trousers
+- Side adjusters; no belt loops
+- Black satin side stripe
+- White boutonniere and white pocket square
+- Aged-silver buttons/cufflinks/studs
+- Hidden Iranian geometry in lining/internal construction
+
+**Design intention:** Old Hollywood body + Art Deco geometry + Iranian hidden construction + Gothic severity + engineered tailoring.
+
+## 002 — THE CORLEONE
+
+A restrained authority suit.
+- Deep forest-black wool
+- Two-button single-breasted jacket
+- 9–10 cm straight peak lapel
+- Black silk facing
+- Controlled Hollywood shoulder
+- Double vents
+- High-rise trousers with side adjusters
+- White shirt
+- Black silk tie
+- Aged-silver cufflinks
+
+## 003 — THE NOIR
+
+Sensual evening dinner jacket.
+- Midnight-black velvet
+- Architectural shawl/peak geometry
+- Black silk facing
+- Slightly elongated body
+- Sculpted waist
+- White shirt
+- Black bow
+- High-rise black trousers
+
+## 004 — THE GRAND HOTEL
+
+Theatrical formal suit.
+- Deep bottle green or deep burgundy jacket
+- Black satin lapels
+- Black trousers
+- Ivory formal shirt
+- Black bow
+- Aged-silver hardware
+
+## THE EDRIS SUIT
+
+Permanent house suit.
+- Midnight navy, forest black, charcoal, deep brown-black
+- Two-button or restrained three-roll-two
+- Straight architectural peak lapel
+- Slightly extended jacket
+- High-rise trousers
+- Side adjusters
+- Natural but sculpted shoulder
+- Permanent house block, adapted through TUX GEN for bespoke work
+
+---
+
+# 5. CASUAL CLOTHING
+
+## THE EDRIS TEE
+
+- Heavy premium cotton
+- Structured shoulder
+- Clean neck
+- Slightly elongated body
+- Black / ivory / forest-black / washed charcoal
+- No visible branding or micro rabbit only
+
+## THE ARCHITECT SHIRT
+
+- Black or ivory premium cotton
+- Relaxed but controlled body
+- Architectural collar
+- Hidden placket
+- Strong cuffs
+- Aged-silver buttons
+- Subtle rear pleat
+
+## THE RAIN SHIRT
+
+- Deep forest technical cotton or wool/cotton
+- Weather-resistant
+- High collar
+- Concealed hardware
+- Architectural pockets
+- Dark metal zipper
+
+## THE EDRIS KNIT
+
+- Heavy black cashmere/wool
+- Slightly dropped shoulder
+- Longer body
+- Architectural aged-silver buttons
+- Hidden rabbit inside cuff
+
+## EDRIS DENIM 001
+
+- Near-black premium denim
+- High rise
+- Straight/slightly tapered
+- Heavy fabric
+- Silver hardware
+- No artificial rips
+- Natural aging encouraged
+
+---
+
+# 6. OUTERWEAR
+
+## THE RUIN COAT
+
+- Long black wool coat
+- Below-knee length
+- Strong controlled shoulder
+- Straight front
+- Hidden closure
+- High collar
+- Architectural lapel option
+- Deep internal pockets
+- Hidden aged-silver hardware
+
+Concept: a modern coat discovered in the ruins of an old civilization.
+
+## THE ARCHITECT TRENCH
+
+- Long black body
+- Strong straight silhouette
+- Gunmetal hardware
+- Wide belt
+- High collar
+- Storm flap
+- Dark lining with Iranian geometry
+
+## THE FERAL JACKET
+
+- Black horsehide or exceptional leather
+- Sculpted shoulder
+- Slightly cropped
+- Minimal hardware
+- Heavy aged-silver zipper
+- Architectural cuffs
+- No biker costume references
+
+---
+
+# 7. FOOTWEAR
+
+## THE EDRIS WHOLECUT
+
+- Black premium leather
+- Slightly elongated toe
+- Extremely clean upper
+- Minimal seam structure
+- Formal silhouette
+- Suitable for 001
+
+## THE ARCHITECT BOOT
+
+- Black leather Chelsea-inspired boot
+- Slightly elongated toe
+- Sculpted heel
+- Strong side geometry
+- Minimal elastic
+- Small silver detail
+
+## THE RUIN BOOT
+
+- Heavy black leather
+- Tall boot silhouette
+- Architectural sole
+- Gunmetal hardware
+- Rugged but refined
+- No military cosplay
+
+## EDRIS SNEAKER 001
+
+- Low-profile black leather
+- Black sole
+- Subtle silver hardware
+- Architectural panel geometry
+- Rabbit hidden on tongue/interior
+- Minimal visible branding
+
+---
+
+# 8. LEATHER GOODS
+
+## THE EDRIS ATTACHÉ
+
+- Rigid architectural black leather case
+- Rectangular Art Deco proportions
+- Aged-silver lock
+- Rabbit engraved into lock mechanism
+- Interior compartments engineered for modern work
+
+## THE NIGHT BAG
+
+- Soft black leather
+- Compact evening proportion
+- Substantial silver hardware
+- Minimal external branding
+- Dark architectural lining
+
+## THE TRAVEL CASE
+
+- Black leather garment/travel case
+- Suit compartment
+- Shoe compartment
+- Jewelry compartment
+- Fragrance compartment
+- Mechanical-looking hardware
+
+Additional permanent leather goods:
+- Briefcase
+- Weekend bag
+- Crossbody
+- Backpack
+- Wallet
+- Cardholder
+- Passport holder
+- Belt
+- Gloves
+- Garment bag
+
+---
+
+# 9. EYEWEAR
+
+## EDRIS 01 — NOIR
+
+Thick black acetate; angular rectangular lens; strong masculine proportions; subtle silver temple detail.
+
+## EDRIS 02 — DECO
+
+Thin gunmetal frame; vertically elongated lens; restrained Art Deco geometry; elegant rather than futuristic.
+
+## EDRIS 03 — MASK
+
+Black acetate + metal; subtly elongated eye shape; bridge/temple geometry inspired by the Masked Rabbit without literal rabbit imagery.
+
+Every model requires final CAD, lens dimensions, bridge, temple length, material, hinge, finish and market-specific optical/sunglass compliance.
+
+---
+
+# 10. JEWELRY
+
+## THE MASKED RABBIT RING
+
+- Substantial sterling silver
+- Architectural rabbit-mask face
+- Polished forehead/high points
+- Brushed planes
+- Blackened recesses
+- Hidden Iranian geometry
+- Artifact-like proportions
+
+## THE PORTAL RING
+
+- Architectural rectangular opening
+- Recessed dark center
+- No rabbit
+- More discreet everyday signature
+
+## THE EDRIS CHAIN
+
+- Heavy but elegant darkened sterling silver
+- Custom architectural joint links
+- No obvious logo
+
+## THE RABBIT PENDANT
+
+- Simplified Masked Rabbit
+- Long vertical profile
+- Thin blackened-silver body
+- Designed to sit over a white formal shirt
+
+## THE EDRIS CUFF
+
+- Wide but controlled blackened silver
+- Architectural edges
+- Central vertical incision
+- Tiny rabbit hidden inside
+
+## HOUSE HARDWARE FAMILY
+
+- Buttons
+- Cufflinks
+- Shirt studs
+- Tie bars
+- Collar bars
+- Lapel pins
+- Belt buckles
+- Bag hardware
+- Eyewear hardware
+
+All share a common geometry and finish map.
+
+---
+
+# 11. FRAGRANCE
+
+## EDRIS 001 — AFTER THE RAIN
+### THE BLACK TIE SHIPYARD
+
+Scene: midnight tuxedo, tropical/dark rainforest after heavy rain, derelict shipyard, black ocean, wet concrete, rusting machinery, vegetation reclaiming civilization, campfire, smoke, cognac, cacao, honey and old wood.
+
+Signature accord:
+**CARDAMOM × VETIVER × MINERAL RAIN**
+
+Opening:
+- Bergamot FCF
+- Cardamom
+- Black pepper
+- Cold mineral rain
+- Dark marine/mineral accord
+
+Heart:
+- Clary sage
+- Violet leaf
+- Iris
+- Wet green foliage/fern
+- Oakmoss
+- Haitian vetiver
+- Vetiver acetate
+
+Feral/smoke:
+- Guaiac wood
+- Frankincense
+- Labdanum
+- Trace birch tar/cade
+- Patchouli
+- Cashmeran
+
+Base:
+- Haitian vetiver
+- Cedarwood
+- Sandalwood
+- Iso E Super
+- Ambroxan
+- Musk
+- Oakmoss
+- Labdanum
+
+Warmth:
+- Cognac accord
+- Cacao/dark chocolate
+- Honey
+- Benzoin
+- Vanilla
+- Tonka
+
+Target: dark aquatic woody amber/extrait.
+
+Bottle: tall, heavy, architectural, black/dark translucent glass; substantial aged-silver rabbit-mask cap; minimal label.
+
+Box: black/forest-black exterior, hidden Iranian geometry, chamber-like opening.
+
+## 002 — THE ARCHIVE
+
+Future fragrance direction:
+- Dry woods
+- Paper
+- Iris
+- Incense
+- Leather
+- Mineral facets
+- Tobacco nuance
+- Old-room atmosphere
+
+Concept: an ancient room containing objects that survived everyone who made them.
+
+## 003 — NOCTURNE
+
+Future sensual direction:
+- Black pepper
+- Cardamom
+- Amber
+- Dark rose
+- Sandalwood
+- Cacao
+- Vanilla
+- Leather
+
+Concept: EDRIS dinner jacket after midnight.
+
+---
+
+# 12. ACCESSORIES
+
+## THE 12 CM BOW
+
+Oversized architectural butterfly bow in black silk. The 001 proportion becomes a house signature.
+
+## EDRIS TIE
+
+Wide but controlled black silk, deep forest and midnight navy. Subtle geometric weave.
+
+## EDRIS POCKET SQUARE
+
+White silk, black border, optional tiny rabbit embroidery.
+
+## EDRIS BELT
+
+Black leather with architectural aged-silver buckle. Buckle designed as a collectible object.
+
+Additional accessories:
+- Suspenders
+- Scarves
+- Gloves
+- Hats
+- Lapel pins
+- Tie bars
+- Collar bars
+- Travel accessories
+
+---
+
+# 13. HOROLOGY — FUTURE CATEGORY
+
+## EDRIS 001 — THE ARCHITECT
+
+- Black dial
+- Restrained gunmetal/silver case
+- Vertical Art Deco markers
+- Mechanical movement
+- Rabbit hidden on caseback
+- EDRIS only on dial
+- Story/provenance on caseback
+
+Principle: the watch expresses the house relationship with time without becoming a novelty logo object.
+
+---
+
+# 14. HOME & OBJECTS — FUTURE CATEGORY
+
+## THE EDRIS DESK LIGHT
+
+Blackened metal, Art Deco vertical structure, warm light, architectural silhouette.
+
+## THE EDRIS OBJECT TRAY
+
+Black stone or blackened metal; recessed geometry; suitable for jewelry, keys and daily objects.
+
+## THE EDRIS BOX
+
+Black architectural presentation box with aged-silver mechanical closure. Universal premium presentation object for jewelry, fragrance, watches and important documents.
+
+Future home direction:
+- Candles
+- Incense
+- Textiles
+- Glassware
+- Bar objects
+- Desk objects
+- Furniture/interiors only when the house can maintain its standards
+
+---
+
+# 15. PACKAGING
+
+Universal language:
+- Near-black exterior
+- Restrained aged-silver details
+- Generous typography
+- Blind/debossed rabbit before obvious branding
+- Architectural opening/reveal
+- Hidden Iranian geometry inside
+- Category-specific protection
+- Provenance/care information without clutter
+
+Packaging should feel like opening an artifact chamber.
+
+---
+
+# 16. RETAIL / ATELIER
+
+Environment:
+- Black stone
+- Dark wood
+- Blackened metal
+- Selective greenery
+- Warm controlled light
+- Iranian symmetry interpreted through Art Deco geometry
+- Monumental/Gothic scale without theatrical theme-park décor
+
+Client journey:
+**arrival → consultation → material discovery → design → fitting → reveal → packaging → aftercare → archive**
+
+The atelier is not simply a store. It is the physical heart of EDRIS.
+
+---
+
+# 17. COMMUNICATION
+
+Photography:
+- Cinematic
+- Tactile
+- Architectural
+- Strong negative space
+- Controlled blacks
+- Character-driven casting
+
+Film:
+- Short cinematic narratives
+- Rain, stone, machinery, fabric, silence and human presence
+- Avoid excessive CGI and literal symbolism
+
+Voice:
+- Precise
+- Poetic
+- Restrained
+- Intelligent
+- Mysterious without over-explaining
+
+---
+
+# 18. PRODUCT HIERARCHY
+
+**ONE-OF-ONE** — unique, numbered, archived.
+**BESPOKE** — individualized through TUX GEN and atelier craft.
+**MADE-TO-MEASURE** — personalized house blocks.
+**READY-TO-WEAR** — scalable house-standard blocks.
+**LIMITED EDITION** — fixed quantity and individually numbered.
+**CORE** — permanent products that define EDRIS.
+
+---
+
+# 19. TUX GEN — INTERNAL HOUSE ENGINE
+
+Core modules:
+- Client profile
+- Measurement/body-scan data
+- Design concepts
+- Garment configuration
+- Material library
+- Hardware library
+- Pattern records
+- Fitting records
+- Alterations
+- Production workflow
+- QC
+- Digital passport
+- Provenance
+- Archive
+
+Bespoke workflow:
+**consultation → measurement → brief → material selection → configuration → pattern → toile/prototype → fitting → correction → final construction → QC → delivery → passport → archive → aftercare**
+
+Every garment receives a unique internal identifier and versioned design/pattern record.
+
+---
+
+# 20. DIGITAL PASSPORT
+
+Each significant piece can record:
+- Piece ID
+- Category
+- Collection
+- Creation date
+- Materials
+- Hardware
+- Construction notes
+- Pattern/version
+- Craftsperson/atelier where appropriate
+- Fitting/alteration history
+- Authenticity
+- Provenance where consented
+- Care instructions
+- Product photography
+- Design notes
+
+Private client data must remain access-controlled and minimized.
+
+---
+
+# 21. ARCHIVE
+
+Preserve:
+- Crest masters
+- Wordmark masters
+- Hardware masters
+- Patterns
+- Technical drawings
+- Fragrance formula revisions
+- Packaging dielines
+- Campaigns
+- Photography
+- Sketches
+- Supplier/material records
+- Golden samples
+- Product stories
+
+The archive preserves not only what an object was, but why it was created.
+
+---
+
+# 22. QUALITY STANDARD
+
+Every product requires:
+- Technical specification
+- Approved material
+- Approved hardware
+- Prototype/golden sample
+- Defined tolerances
+- QC checklist
+- Packaging specification
+- Care specification
+- Archive record
+
+Reject shortcuts that are invisible in a spec sheet but visible in the hand.
+
+---
+
+# 23. REGULATORY GATE
+
+Before commercial release, qualified specialists must validate applicable requirements for:
+- Textile labeling and care
+- Flammability
+- Jewelry alloy/hallmarking and restricted substances
+- Eyewear/optical safety
+- Fragrance/cosmetic safety, IFRA and labeling
+- Leather chemical restrictions
+- Packaging/environmental requirements
+- Market-specific consumer/product regulations
+
+This catalogue is a design master, not a substitute for legal or regulatory approval.
+
+---
+
+# 24. FORBIDDEN DIRECTIONS
+
+EDRIS must never become:
+- Generic Persian luxury
+- Persian costume
+- Costume Gothic
+- Medieval fantasy
+- Literal steampunk
+- Cyberpunk cosplay
+- Military cosplay
+- Generic streetwear
+- Logo-covered luxury
+- Fake aristocracy
+- Generic quiet luxury
+- Trend-chasing
+- Movie/game merchandise
+- Excessive skulls/gears/claws
+- Cheap dark aesthetic
+
+---
+
+# 25. PRODUCT DEVELOPMENT RULE
+
+A new EDRIS product is approved only if:
+1. It feels EDRIS without the logo.
+2. It has a meaningful relationship to the house world.
+3. It has architectural discipline.
+4. It respects the Iranian soul.
+5. It contributes to the civilization/feral tension where appropriate.
+6. It can be made to the required quality.
+7. It can age into an artifact.
+8. It belongs naturally in the client's life.
+
+---
+
+# 26. FIRST COMPLETE PRODUCT WORLD
+
+### CORE LAUNCH DESIGN FAMILY
+1. 001 ONE OF ONE TUXEDO
+2. THE CORLEONE
+3. THE NOIR
+4. THE GRAND HOTEL
+5. THE EDRIS SUIT
+6. THE EDRIS TEE
+7. THE ARCHITECT SHIRT
+8. THE RAIN SHIRT
+9. THE EDRIS KNIT
+10. EDRIS DENIM 001
+11. THE RUIN COAT
+12. THE ARCHITECT TRENCH
+13. THE FERAL JACKET
+14. THE EDRIS WHOLECUT
+15. THE ARCHITECT BOOT
+16. THE RUIN BOOT
+17. EDRIS SNEAKER 001
+18. THE EDRIS ATTACHÉ
+19. THE NIGHT BAG
+20. THE TRAVEL CASE
+21. EDRIS 01 NOIR EYEWEAR
+22. EDRIS 02 DECO EYEWEAR
+23. EDRIS 03 MASK EYEWEAR
+24. THE MASKED RABBIT RING
+25. THE PORTAL RING
+26. THE EDRIS CHAIN
+27. THE RABBIT PENDANT
+28. THE EDRIS CUFF
+29. EDRIS HOUSE CUFFLINKS
+30. EDRIS HOUSE STUDS
+31. EDRIS 001 AFTER THE RAIN
+32. EDRIS TIE
+33. THE 12 CM BOW
+34. EDRIS POCKET SQUARE
+35. EDRIS BELT
+36. EDRIS 001 THE ARCHITECT WATCH — FUTURE
+37. THE EDRIS DESK LIGHT — FUTURE
+38. THE EDRIS OBJECT TRAY — FUTURE
+39. THE EDRIS BOX — FUTURE
+
+---
+
+# 27. HOUSE NON-NEGOTIABLES
+
+- EDRIS is the public house.
+- TUX GEN is the internal bespoke engine.
+- The Masked Rabbit is the house crest.
+- BUILD AGAINST TIME. is the house line.
+- Iran is the soul, not costume.
+- 001 uses a 12 cm straight peak lapel.
+- 001 uses a white formal shirt.
+- Aged-silver hardware is the principal formal hardware language.
+- Beauty comes first; darkness is atmosphere, not a gimmick.
+- Craftsmanship must be real.
+- Products must be worthy of becoming artifacts.
+
+---
+
+# 28. MASTER HOUSE STATEMENT
+
+EDRIS explores the tension between civilization and the feral human through clothing, objects, fragrance, jewelry and architecture. Iranian soul is hidden within an international language of Art Deco geometry, Gothic monumentality, cinematic glamour, engineered craft and controlled darkness.
+
+We are born feral.
+We build civilization around ourselves.
+We make beauty, machines, architecture and ritual to give meaning to existence.
+But civilization decays.
+The body returns to nature.
+The object becomes an artifact.
+The memory becomes a story.
+The story becomes legacy.
+
+**We civilize the wild. We build against time. We know everything eventually returns to nature. So we make something worth leaving behind.**
+
+---
+
+## CATALOGUE STATUS
+
+This catalogue is the canonical EDRIS product-design foundation. Individual technical drawings, CAD, patterns, bill of materials, manufacturing tolerances, fragrance formula percentages, regulatory files and final production samples are controlled downstream records and should be attached to the relevant product ID in TUX GEN / the EDRIS archive.

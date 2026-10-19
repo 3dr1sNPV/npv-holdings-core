@@ -1,0 +1,246 @@
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 1/7, 1/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 2/7, 1/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 3/7, 1/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 4/7, 1/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 5/7, 1/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 6/7, 1/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 7/7, 1/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 1/7, 2/10
+10 cm
+J01 LEFT FRONT SHELL
+cut 1 shell + 1 lining; mirror for right
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 2/7, 2/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 3/7, 2/10
+10 cm
+J03 SIDE BODY
+cut 2 shell + 2 lining
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 4/7, 2/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 5/7, 2/10
+10 cm
+J04 BACK HALF ON FOLD
+cut 2 shell on fold + 2 lining on fold
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 6/7, 2/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 7/7, 2/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 1/7, 3/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 2/7, 3/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 3/7, 3/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 4/7, 3/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 5/7, 3/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 6/7, 3/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 7/7, 3/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 1/7, 4/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 2/7, 4/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 3/7, 4/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 4/7, 4/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 5/7, 4/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 6/7, 4/10
+10 cm
+J07 COLLAR
+cut 2 upper + 2 under
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 7/7, 4/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 1/7, 5/10
+10 cm
+J05 UPPER SLEEVE
+cut 2
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 2/7, 5/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 3/7, 5/10
+10 cm
+J06 UNDER SLEEVE
+cut 2
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 4/7, 5/10
+10 cm
+J08 LAPEL / FACING
+cut 2, mirror
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 5/7, 5/10
+10 cm
+08 LAPEL / FACING
+cut 2, mirror
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 6/7, 5/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 7/7, 5/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 1/7, 6/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 2/7, 6/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 3/7, 6/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 4/7, 6/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 5/7, 6/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 6/7, 6/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 7/7, 6/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 1/7, 7/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 2/7, 7/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 3/7, 7/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 4/7, 7/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 5/7, 7/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 6/7, 7/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 7/7, 7/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 1/7, 8/10
+10 cm
+T01 TROUSER FRONT HALF
+cut 2
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 2/7, 8/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 3/7, 8/10
+10 cm
+T02 TROUSER BACK HALF
+cut 2
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 4/7, 8/10
+10 cm
+T02 TROUSER BACK HALF
+cut 2
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 5/7, 8/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 6/7, 8/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 7/7, 8/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 1/7, 9/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 2/7, 9/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 3/7, 9/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 4/7, 9/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 5/7, 9/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 6/7, 9/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 7/7, 9/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 1/7, 10/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 2/7, 10/10
+10 cm
+T03 WAISTBAND
+cut 1 outer + 1 inner
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 3/7, 10/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 4/7, 10/10
+10 cm
+J10 JETTED WELT
+cut 4
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 5/7, 10/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 6/7, 10/10
+10 cm
+
+UNCLE ED'S 001 — 1:1 PATTERN — TILE 7/7, 10/10
+10 cm
+
+UNCLE ED'S 001 — FINAL 1:1 DRAFT PATTERN
+ONE OF ONE · THE LEGACY TUXEDO · By Edris Nazparvar · 2026
+Draft basis: supplied body measurements + established 001 house design.
+Scale: 1:1. Seam allowance outline: 0.8 cm shown dashed. Solid line = stitching/drafting line.
+IMPORTANT: This is the final calculated draft from the supplied data, but it must be toile-fitted before final cloth.
+Lapel: 12.0 cm finished, straight architectural outer edge, high gorge, peak.
+Jacket: structured boxy Hollywood, crossover single button, full canvas, high armhole, double vents.
+Trousers: high rise, flat front, 4.5 cm waistband target, side adjusters, minimal break.
+Verify 10 cm calibration square after printing. Do not use printer 'fit to page'.
+Cutting rule: cut toile first; transfer all fitting corrections to the master pattern; then cut final cloth.
