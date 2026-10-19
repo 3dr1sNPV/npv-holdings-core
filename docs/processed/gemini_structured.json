@@ -1,0 +1,29 @@
+{
+  "source_file": "Gemini - direct access to Google AI.docx",
+  "extracted_on": "2026-10-19",
+  "identity": {
+    "legal_name": "Edris Nazparvar",
+    "email": "edrisnazparvar@gmail.com",
+    "background": "Civil Aviation Management",
+    "locations": ["Sary"],
+    "age_approx": 28
+  },
+  "brands_and_projects": {
+    "House_EDRIS": {
+      "products": ["Tux Gen 001", "Masked Rabbit Crest", "Fragrance"],
+      "aesthetic": "dark architecture, cinematic, ritual geometry"
+    },
+    "Obsidian_Motors": ["Project Loki", "Project Snow White 2.0"],
+    "Aero_Logistics_Systems": ["Electronic Baggage Tags (EBT)"]
+  },
+  "preferences": {
+    "colors": ["midnight black","forest-black","ink","aged silver","deep bottle green"],
+    "music": ["Slipknot","Led Zeppelin","Rammstein","Mobb Deep","2Pac","Kendrick Lamar"],
+    "movies": ["The Departed","Eastern Promises","The Irishman","Donnie Darko"]
+  },
+  "business_structure": {
+    "npv_holdings": ["House EDRIS","Obsidian Motors","Aero Logistics Systems","Abyss Marine","Kryon Thermal & Patents","Nocturne Audio Works","Kepler Technologies"]
+  },
+  "sensitive_note": "This document contains personal profile text and private account references; treat as confidential.",
+  "source_path": "docs/text/‎Gemini - direct access to Google AI.txt"
+}
