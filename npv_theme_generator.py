@@ -13,34 +13,23 @@ EDRIS_DESIGN_TOKENS = {
 }
 
 def get_shopify_access_token():
-    shop_domain = os.environ.get("SHOPIFY_SHOP_DOMAIN")
+    # Fallback check across different naming conventions for shop domain
+    shop_domain = (
+        os.environ.get("SHOPIFY_SHOP_DOMAIN") or 
+        os.environ.get("SHOP_DOMAIN") or 
+        os.environ.get("SHOPIFY_STORE_DOMAIN")
+    )
     client_id = os.environ.get("SHOPIFY_CLIENT_ID")
     client_secret = os.environ.get("SHOPIFY_CLIENT_SECRET")
     
     if not shop_domain or not client_id or not client_secret:
-        raise ValueError("Critical Error: Missing required Shopify environment variables (SHOP_DOMAIN, CLIENT_ID, or CLIENT_SECRET).")
+        raise ValueError(
+            f"Critical Error: Missing required Shopify environment variables. "
+            f"(Domain Found: {bool(shop_domain)}, Client ID Found: {bool(client_id)}, Secret Found: {bool(client_secret)})"
+        )
     
-    print(f"[*] Exchanging Client ID/Secret for active session token on {shop_domain}...")
-    
-    # Shopify Custom App token exchange endpoint
-    auth_url = f"https://{shop_domain}/admin/oauth/access_token"
-    payload = {
-        "client_id": client_id,
-        "client_secret": client_secret,
-        "grant_type": "client_credentials" # Or standard offline token request depending on app configuration
-    }
-    
-    # Fallback or direct token generation logic if using Shopify's Admin API client credentials flow
-    # Note: If your app uses offline access tokens generated via client credentials, handle the response here:
-    response = requests.post(auth_url, data=payload)
-    
-    if response.status_code == 200:
-        data = response.json()
-        return shop_domain, data.get("access_token")
-    else:
-        # If using standard custom app header authentication via Client Credentials (depending on API version):
-        print(f"[!] OAuth exchange notice: Status {response.status_code}. Falling back to direct header authentication with Client ID/Secret.")
-        return shop_domain, client_secret # Used if handling basic auth / client secret headers directly
+    print(f"[*] Authenticating with Shopify for domain: {shop_domain}...")
+    return shop_domain, client_secret
 
 def generate_theme_config():
     print("[*] Compiling House EDRIS aesthetic token bundle...")
@@ -54,7 +43,6 @@ def generate_theme_config():
 def push_to_shopify(shop_domain, credential_token, theme_data):
     api_url = f"https://{shop_domain}/admin/api/2024-07/graphql.json"
     
-    # Use Client ID/Secret or dynamic access token depending on your Shopify App configuration
     headers = {
         "X-Shopify-Access-Token": credential_token,
         "Content-Type": "application/json"
